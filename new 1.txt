@@ -1,0 +1,3221 @@
+OSError: [Errno 22] Cache directory "HIVCalibSite_OnART_Non-provincial_[0:15)[15:100)_GaussianDistribution_cache" does not exist and could not be created
+
+
+
+C:\ye\venv\dtk_tools\Scripts\python.exe "C:/GitHub/HIV/Supriya Sarkar/optim_script.py"
+Calibration with name Zambia--0.02--rep3--FS already exists in current directory
+Do you want to [R]esume, [B]ackup + run, [C]leanup + run, Re-[P]lot, [A]bort:  C
+Cancelling experiment Zambia--0.02--rep3--FS_iter0_c2db1c1e-7313-e911-80ca-f0921c167866
+Waiting to complete cancellation...
+Calibration Zambia--0.02--rep3--FS successfully cancelled!
+Cleaning up calibration Zambia--0.02--rep3--FS
+Delete COMPS suite c1db1c1e-7313-e911-80ca-f0921c167866
+---- Starting Iteration 0 ----
+0 SeedYr HIGH 1982 1980 1990 False
+0 Base Infectivity 0.00065805 0.000462514 0.000731765 True
+0 Circumcision Reduced Acquire 0.6 0.4 0.9 False
+0 Sexual Debut Age Female Weibull Scale 18.606144675919992 17.3720881 20 True
+0 Sexual Debut Age Female Weibull Heterogeneity 0.22594080922800006 0.097991969 0.340692871 True
+0 Sexual Debut Age Male Weibull Scale 16.529063348719998 15.21136965 18.47653318 True
+0 Sexual Debut Age Male Weibull Heterogeneity 0.16722784289600007 0.047003797 0.301883187 True
+0 Trns Form Rate 0.0013502689680000004 0.000514544 0.002147506 True
+0 Infmrl Form Rate 0.0003267078840000002 9.13e-05 0.000750199 True
+0 Mrtl Form Rate 0.00015194086800000004 8.35e-05 0.000220516 True
+0 Male To Female Young 2.0271207387359995 1 3.521532331 True
+0 Male To Female Old 1.80702788 1 3 True
+0 Trns Condom Mid 2003.6462943840002 2001.09944 2005 True
+0 Trns Condom Rate 2.680546492368 1.799647676 3 True
+0 Trns Condom Late 0.29476792519999995 0.042466528 0.497848947 True
+0 Infrml Condom Mid 1996.6712737560013 1991.016096 2002.789368 True
+0 Infrml Condom Rate 0.32514846760800026 0 1.577351648 True
+0 Infmrl Condoms Late 0.4429398756999997 0.263329488 0.6 True
+0 Mrtl Condom Mid 1999.4340093160001 1994.323885 2003.947105 True
+0 Mrtl Condom Rate 1.162613441492 0.47139282 1.762186758 True
+0 Mrtl Condom Max 0.24546589979999997 0.139951902 0.3 True
+0 Risk Assortivity 0.1583939125279999 0.05 0.442273786 True
+0 Pr Ex Trns Male LOW 0.17156243564800003 0.03606336 0.330339116 True
+0 Pr Ex Trns Male MED 0.2968423946159999 0.127118781 0.595260046 True
+0 Pr Ex Trns Fem LOW 0.060158364316 0 0.161443834 True
+0 Pr Ex Trns Fem MED 0.32757797660000004 0.129289341 0.702074707 True
+0 Pr Ex Infmrl Male LOW 0.26551587058400006 0 0.417467689 True
+0 Pr Ex Infmrl Fem LOW 0.3005679004599999 0.185855287 0.5 True
+0 Max Trns M LOW 1.8332489289200007 1.437886034 2 True
+0 Max Trns F LOW 1.8332489289200007 1.437886034 2 True
+0 Max Infmrl M LOW 1.220070328784 0.902599589 1.457616563 True
+0 Max Infmrl F LOW 1.220070328784 0.902599589 1.457616563 True
+0 Pr Ex Infmrl Male MED 0.4110081915719999 0.23247206 0.5 True
+0 Pr Ex Infmrl Fem MED 0.3926795025160002 0.207438656 0.5 True
+0 Max Trns M MED 2.2127818964040005 1.565818875 3 True
+0 Max Trns F MED 2.2127818964040005 1.565818875 3 True
+0 Max Infmrl M MED 2.7086229532600004 1.949826779 3 True
+0 Max Infmrl F MED 2.7086229532600004 1.949826779 3 True
+0 Max Mrtl M ME 1.8276888435080003 1.468170751 2 True
+0 Max Mrtl F ME 1.8276888435080003 1.468170751 2 True
+0 Infrml Dur Het 0.75 0.75 0.75 False
+0 Central: Trns Condoms Late 0.6840104651480003 0.503310427 0.8 True
+0 Central: Infmrl Condoms Late 0.5110263261879998 0.368303923 0.6 True
+0 Central: LOW Risk 0.2542050461600001 0.101207687 0.351662676 True
+0 Copperbelt: Trns Condoms Late 0.4258758488840002 0.19746852 0.549003153 True
+0 Copperbelt: Infmrl Condoms Late 0.22692407542000004 0 0.417629356 True
+0 Copperbelt: LOW Risk 0.33404160518 0.232866175 0.413876887 True
+0 Eastern: Trns Condoms Late 0.5086235459000004 0.212994864 0.8 True
+0 Eastern: Infmrl Condoms Late 0.1703518085240001 0.018981119 0.403479803 True
+0 Eastern: LOW Risk 0.12594297065199994 0.05 0.258156283 True
+0 Luapula: Trns Condoms Late 0.6756244423679993 0.313664491 0.8 True
+0 Luapula: Infmrl Condoms Late 0.5328265342159998 0.406449404 0.6 True
+0 Luapula: LOW Risk 0.23366463305199994 0.068374894 0.424839271 True
+0 Lusaka: Trns Condoms Late 0.18005020621200005 0 0.662366525 True
+0 Lusaka: Infmrl Condoms Late 0.5311928377199998 0.374899244 0.6 True
+0 Lusaka: LOW Risk 0.3806859140840002 0.211396792 0.5 True
+0 Muchinga: Trns Condoms Late 0.48440360224799983 0.325522692 0.8 True
+0 Muchinga: Infmrl Condoms Late 0.20668921986799996 0.038298426 0.580399186 True
+0 Muchinga: LOW Risk 0.09272307417600002 0.05 0.23341755 True
+0 Northern: Trns Condoms Late 0.6079084890999997 0.354285126 0.8 True
+0 Northern: Infmrl Condoms Late 0.4876322350719995 0.135008185 0.6 True
+0 Northern: LOW Risk 0.44898045094000005 0.348732427 0.5 True
+0 Northwestern: Trns Condoms Late 0.6544284567199999 0.461395552 0.8 True
+0 Northwestern: Infmrl Condoms Late 0.48899453800799997 0.255871722 0.6 True
+0 Northwestern: LOW Risk 0.2914405509600002 0.091520549 0.5 True
+0 Southern: Trns Condoms Late 0.7308442738000007 0.488058034 0.8 True
+0 Southern: Infmrl Condoms Late 0.5269561592559996 0.344260515 0.6 True
+0 Southern: LOW Risk 0.3741192799080003 0.2560802 0.5 True
+0 Western: Trns Condoms Late 0.6406304791040001 0.404196268 0.8 True
+0 Western: Infmrl Condoms Late 0.08501450512400001 0 0.311877405 True
+0 Western: LOW Risk 0.2780668342160001 0.107138081 0.480500094 True
+0 PreART Link Min 0.8375269584079996 0.58773283 1 True
+0 PreART Link Max 0.9633467164679995 0.771714793 1 True
+0 PreART Link Mid 2006.542934072 2002.674583 2010 True
+0 ART Link Max 0.891839766984 0.671290636 1 True
+0 ART Link Mid 1997.8751006279995 1995 2001.259622 True
+0 Run_Number 493104.448 4607 997118 True
+Saving meta-data for experiment:
+{
+   "command_line": "Assets\\Eradication.exe --config config.json --input-path ./Assets",
+   "date_created": "2019-01-08 10:33:17.389892",
+   "dtk_tools_revision": "1.0b3",
+   "endpoint": "https://comps2.idmod.org",
+   "exe_name": "Eradication.exe",
+   "exp_id": "b3a7acdc-7313-e911-80ca-f0921c167866",
+   "exp_name": "Zambia--0.02--rep3--FS_iter0",
+   "id": "Zambia--0.02--rep3--FS_iter0_b3a7acdc-7313-e911-80ca-f0921c167866",
+   "location": "HPC",
+   "selected_block": "HPC",
+   "setup_overlay_file": "C:\\GitHub\\HIV\\Supriya Sarkar\\simtools.ini",
+   "sim_root": "$COMPS_PATH(USER)\\output",
+   "suite_id": "b2a7acdc-7313-e911-80ca-f0921c167866",
+   "working_directory": "C:\\GitHub\\HIV\\Supriya Sarkar"
+}
+Creating the simulations
+ | Creator processes: 3 
+ | Simulations per batch: 20
+ \ Created simulations: 0/30UNUSED PARAMETER: Run_Number
+ | Created simulations: 0/30UNUSED PARAMETER: Run_Number
+ - Created simulations: 0/30UNUSED PARAMETER: Run_Number
+ | Created simulations: 0/30UNUSED PARAMETER: Run_Number
+UNUSED PARAMETER: Run_Number
+ - Created simulations: 0/30UNUSED PARAMETER: Run_Number
+ \ Created simulations: 0/30UNUSED PARAMETER: Run_Number
+ / Created simulations: 0/30UNUSED PARAMETER: Run_Number
+UNUSED PARAMETER: Run_Number
+ \ Created simulations: 0/30UNUSED PARAMETER: Run_Number
+ / Created simulations: 0/30UNUSED PARAMETER: Run_Number
+ - Created simulations: 0/30UNUSED PARAMETER: Run_Number
+ | Created simulations: 0/30UNUSED PARAMETER: Run_Number
+UNUSED PARAMETER: Run_Number
+ - Created simulations: 0/30UNUSED PARAMETER: Run_Number
+ | Created simulations: 0/30UNUSED PARAMETER: Run_Number
+ / Created simulations: 0/30UNUSED PARAMETER: Run_Number
+UNUSED PARAMETER: Run_Number
+ \ Created simulations: 0/30UNUSED PARAMETER: Run_Number
+UNUSED PARAMETER: Run_Number
+ / Created simulations: 0/30UNUSED PARAMETER: Run_Number
+UNUSED PARAMETER: Run_Number
+ \ Created simulations: 0/30UNUSED PARAMETER: Run_Number
+ / Created simulations: 0/30UNUSED PARAMETER: Run_Number
+ - Created simulations: 0/30UNUSED PARAMETER: Run_Number
+ | Created simulations: 0/30UNUSED PARAMETER: Run_Number
+ / Created simulations: 0/30UNUSED PARAMETER: Run_Number
+ - Created simulations: 0/30UNUSED PARAMETER: Run_Number
+ | Created simulations: 0/30UNUSED PARAMETER: Run_Number
+ / Created simulations: 0/30UNUSED PARAMETER: Run_Number
+ | Created simulations: 30/30
+ 
+Simulations created:
+----------------------
+- Simulation 835199e7-7313-e911-80ca-f0921c167866
+{
+  "Base_Infectivity": 0.0006691672204138117,
+  "Circumcision_Reduced_Acquire": 0.6,
+  "Defaults.Society.INFORMAL.Concurrency_Parameters.LOW.Max_Simultaneous_Relationships_Female": 1.2109578814522994,
+  "Defaults.Society.INFORMAL.Concurrency_Parameters.LOW.Max_Simultaneous_Relationships_Male": 1.2256703288389241,
+  "Defaults.Society.INFORMAL.Concurrency_Parameters.LOW.Prob_Extra_Relationship_Male": 0.3045032320125043,
+  "Defaults.Society.INFORMAL.Concurrency_Parameters.MEDIUM.Max_Simultaneous_Relationships_Female": 2.7208912856410095,
+  "Defaults.Society.INFORMAL.Concurrency_Parameters.MEDIUM.Max_Simultaneous_Relationships_Male": 2.6872503290967984,
+  "Defaults.Society.INFORMAL.Concurrency_Parameters.MEDIUM.Prob_Extra_Relationship_Female": 0.4090555906820218,
+  "Defaults.Society.INFORMAL.Concurrency_Parameters.MEDIUM.Prob_Extra_Relationship_Male": 0.41141325962260117,
+  "Defaults.Society.INFORMAL.Pair_Formation_Parameters.Assortivity.Weighting_Matrix_RowMale_ColumnFemale": [
+    [
+      0.1697918441717163,
+      0.8302081558282837,
+      0
+    ],
+    [
+      0.8302081558282837,
+      0.1697918441717163,
+      0.1697918441717163
+    ],
+    [
+      0,
+      0.1697918441717163,
+      0.8302081558282837
+    ]
+  ],
+  "Defaults.Society.MARITAL.Concurrency_Parameters.MEDIUM.Max_Simultaneous_Relationships_Female": 1.8340956931957046,
+  "Defaults.Society.MARITAL.Concurrency_Parameters.MEDIUM.Max_Simultaneous_Relationships_Male": 1.8176354150190723,
+  "Defaults.Society.MARITAL.Pair_Formation_Parameters.Assortivity.Weighting_Matrix_RowMale_ColumnFemale": [
+    [
+      0.1697918441717163,
+      0.8302081558282837,
+      0
+    ],
+    [
+      0.8302081558282837,
+      0.1697918441717163,
+      0.1697918441717163
+    ],
+    [
+      0,
+      0.1697918441717163,
+      0.8302081558282837
+    ]
+  ],
+  "Defaults.Society.TRANSITORY.Concurrency_Parameters.LOW.Max_Simultaneous_Relationships_Female": 1.8249402693204688,
+  "Defaults.Society.TRANSITORY.Concurrency_Parameters.LOW.Max_Simultaneous_Relationships_Male": 1.8420537006774151,
+  "Defaults.Society.TRANSITORY.Concurrency_Parameters.LOW.Prob_Extra_Relationship_Female": 0.06261611181520445,
+  "Defaults.Society.TRANSITORY.Concurrency_Parameters.LOW.Prob_Extra_Relationship_Male": 0.1746695511621588,
+  "Defaults.Society.TRANSITORY.Concurrency_Parameters.MEDIUM.Max_Simultaneous_Relationships_Female": 2.2664325214335963,
+  "Defaults.Society.TRANSITORY.Concurrency_Parameters.MEDIUM.Max_Simultaneous_Relationships_Male": 2.1744916648673707,
+  "Defaults.Society.TRANSITORY.Concurrency_Parameters.MEDIUM.Prob_Extra_Relationship_Female": 0.34189149367730404,
+  "Defaults.Society.TRANSITORY.Concurrency_Parameters.MEDIUM.Prob_Extra_Relationship_Male": 0.2742687095564022,
+  "Defaults.Society.TRANSITORY.Pair_Formation_Parameters.Assortivity.Weighting_Matrix_RowMale_ColumnFemale": [
+    [
+      0.1697918441717163,
+      0.8302081558282837,
+      0
+    ],
+    [
+      0.8302081558282837,
+      0.1697918441717163,
+      0.1697918441717163
+    ],
+    [
+      0,
+      0.1697918441717163,
+      0.8302081558282837
+    ]
+  ],
+  "Events.22.Start_Year": 1982,
+  "Events.88.Event_Coordinator_Config.Intervention_Config.Actual_IndividualIntervention_Config.Ramp_Max": 0.9696114849995182,
+  "Events.88.Event_Coordinator_Config.Intervention_Config.Actual_IndividualIntervention_Config.Ramp_MidYear": 2006.6570437048927,
+  "Events.88.Event_Coordinator_Config.Intervention_Config.Actual_IndividualIntervention_Config.Ramp_Min": 0.8426241194165661,
+  "Events.94.Event_Coordinator_Config.Intervention_Config.Actual_IndividualIntervention_Config.Ramp_Max": 0.90537783307582,
+  "Events.94.Event_Coordinator_Config.Intervention_Config.Actual_IndividualIntervention_Config.Ramp_MidYear": 1998.0260997628823,
+  "Male_To_Female_Relative_Infectivity_Multipliers": [
+    2.0806179747794977,
+    2.0806179747794977,
+    1.7612133126373122
+  ],
+  "Nodes.0.IndividualProperties.1.Initial_Distribution": [
+    0.2397847853353113,
+    0.7602152146646887,
+    0
+  ],
+  "Nodes.0.Society.INFORMAL.Pair_Formation_Parameters.Formation_Rate_Constant": 0.0003110801151894828,
+  "Nodes.0.Society.INFORMAL.Relationship_Parameters.Condom_Usage_Probability.Max": 0.5136641156238384,
+  "Nodes.0.Society.INFORMAL.Relationship_Parameters.Condom_Usage_Probability.Mid": 1996.4820450924808,
+  "Nodes.0.Society.INFORMAL.Relationship_Parameters.Condom_Usage_Probability.Rate": 0.4450260130672992,
+  "Nodes.0.Society.INFORMAL.Relationship_Parameters.Duration_Weibull_Heterogeneity": 0.75,
+  "Nodes.0.Society.MARITAL.Pair_Formation_Parameters.Formation_Rate_Constant": 0.0001518919795595123,
+  "Nodes.0.Society.MARITAL.Relationship_Parameters.Condom_Usage_Probability.Max": 0.24590465975649178,
+  "Nodes.0.Society.MARITAL.Relationship_Parameters.Condom_Usage_Probability.Mid": 1999.4681936331742,
+  "Nodes.0.Society.MARITAL.Relationship_Parameters.Condom_Usage_Probability.Rate": 1.1451013673472783,
+  "Nodes.0.Society.TRANSITORY.Pair_Formation_Parameters.Formation_Rate_Constant": 0.0013938775484991467,
+  "Nodes.0.Society.TRANSITORY.Relationship_Parameters.Condom_Usage_Probability.Max": 0.6784728007507341,
+  "Nodes.0.Society.TRANSITORY.Relationship_Parameters.Condom_Usage_Probability.Mid": 2003.7175490417835,
+  "Nodes.0.Society.TRANSITORY.Relationship_Parameters.Condom_Usage_Probability.Rate": 2.697844685373552,
+  "Nodes.1.IndividualProperties.1.Initial_Distribution": [
+    0.3342526638513303,
+    0.6657473361486697,
+    0
+  ],
+  "Nodes.1.Society.INFORMAL.Pair_Formation_Parameters.Formation_Rate_Constant": 0.0003110801151894828,
+  "Nodes.1.Society.INFORMAL.Relationship_Parameters.Condom_Usage_Probability.Max": 0.21055779683060294,
+  "Nodes.1.Society.INFORMAL.Relationship_Parameters.Condom_Usage_Probability.Mid": 1996.4820450924808,
+  "Nodes.1.Society.INFORMAL.Relationship_Parameters.Condom_Usage_Probability.Rate": 0.4450260130672992,
+  "Nodes.1.Society.INFORMAL.Relationship_Parameters.Duration_Weibull_Heterogeneity": 0.75,
+  "Nodes.1.Society.MARITAL.Pair_Formation_Parameters.Formation_Rate_Constant": 0.0001518919795595123,
+  "Nodes.1.Society.MARITAL.Relationship_Parameters.Condom_Usage_Probability.Max": 0.24590465975649178,
+  "Nodes.1.Society.MARITAL.Relationship_Parameters.Condom_Usage_Probability.Mid": 1999.4681936331742,
+  "Nodes.1.Society.MARITAL.Relationship_Parameters.Condom_Usage_Probability.Rate": 1.1451013673472783,
+  "Nodes.1.Society.TRANSITORY.Pair_Formation_Parameters.Formation_Rate_Constant": 0.0013938775484991467,
+  "Nodes.1.Society.TRANSITORY.Relationship_Parameters.Condom_Usage_Probability.Max": 0.4246386015161765,
+  "Nodes.1.Society.TRANSITORY.Relationship_Parameters.Condom_Usage_Probability.Mid": 2003.7175490417835,
+  "Nodes.1.Society.TRANSITORY.Relationship_Parameters.Condom_Usage_Probability.Rate": 2.697844685373552,
+  "Nodes.2.IndividualProperties.1.Initial_Distribution": [
+    0.12983285701710967,
+    0.8701671429828903,
+    0
+  ],
+  "Nodes.2.Society.INFORMAL.Pair_Formation_Parameters.Formation_Rate_Constant": 0.0003110801151894828,
+  "Nodes.2.Society.INFORMAL.Relationship_Parameters.Condom_Usage_Probability.Max": 0.16382236345884893,
+  "Nodes.2.Society.INFORMAL.Relationship_Parameters.Condom_Usage_Probability.Mid": 1996.4820450924808,
+  "Nodes.2.Society.INFORMAL.Relationship_Parameters.Condom_Usage_Probability.Rate": 0.4450260130672992,
+  "Nodes.2.Society.INFORMAL.Relationship_Parameters.Duration_Weibull_Heterogeneity": 0.75,
+  "Nodes.2.Society.MARITAL.Pair_Formation_Parameters.Formation_Rate_Constant": 0.0001518919795595123,
+  "Nodes.2.Society.MARITAL.Relationship_Parameters.Condom_Usage_Probability.Max": 0.24590465975649178,
+  "Nodes.2.Society.MARITAL.Relationship_Parameters.Condom_Usage_Probability.Mid": 1999.4681936331742,
+  "Nodes.2.Society.MARITAL.Relationship_Parameters.Condom_Usage_Probability.Rate": 1.1451013673472783,
+  "Nodes.2.Society.TRANSITORY.Pair_Formation_Parameters.Formation_Rate_Constant": 0.0013938775484991467,
+  "Nodes.2.Society.TRANSITORY.Relationship_Parameters.Condom_Usage_Probability.Max": 0.5107655801913289,
+  "Nodes.2.Society.TRANSITORY.Relationship_Parameters.Condom_Usage_Probability.Mid": 2003.7175490417835,
+  "Nodes.2.Society.TRANSITORY.Relationship_Parameters.Condom_Usage_Probability.Rate": 2.697844685373552,
+  "Nodes.3.IndividualProperties.1.Initial_Distribution": [
+    0.24363332105362706,
+    0.756366678946373,
+    0
+  ],
+  "Nodes.3.Society.INFORMAL.Pair_Formation_Parameters.Formation_Rate_Constant": 0.0003110801151894828,
+  "Nodes.3.Society.INFORMAL.Relationship_Parameters.Condom_Usage_Probability.Max": 0.5285802340353466,
+  "Nodes.3.Society.INFORMAL.Relationship_Parameters.Condom_Usage_Probability.Mid": 1996.4820450924808,
+  "Nodes.3.Society.INFORMAL.Relationship_Parameters.Condom_Usage_Probability.Rate": 0.4450260130672992,
+  "Nodes.3.Society.INFORMAL.Relationship_Parameters.Duration_Weibull_Heterogeneity": 0.75,
+  "Nodes.3.Society.MARITAL.Pair_Formation_Parameters.Formation_Rate_Constant": 0.0001518919795595123,
+  "Nodes.3.Society.MARITAL.Relationship_Parameters.Condom_Usage_Probability.Max": 0.24590465975649178,
+  "Nodes.3.Society.MARITAL.Relationship_Parameters.Condom_Usage_Probability.Mid": 1999.4681936331742,
+  "Nodes.3.Society.MARITAL.Relationship_Parameters.Condom_Usage_Probability.Rate": 1.1451013673472783,
+  "Nodes.3.Society.TRANSITORY.Pair_Formation_Parameters.Formation_Rate_Constant": 0.0013938775484991467,
+  "Nodes.3.Society.TRANSITORY.Relationship_Parameters.Condom_Usage_Probability.Max": 0.6863591671888044,
+  "Nodes.3.Society.TRANSITORY.Relationship_Parameters.Condom_Usage_Probability.Mid": 2003.7175490417835,
+  "Nodes.3.Society.TRANSITORY.Relationship_Parameters.Condom_Usage_Probability.Rate": 2.697844685373552,
+  "Nodes.4.IndividualProperties.1.Initial_Distribution": [
+    0.38182822137539885,
+    0.6181717786246012,
+    0
+  ],
+  "Nodes.4.Society.INFORMAL.Pair_Formation_Parameters.Formation_Rate_Constant": 0.0003110801151894828,
+  "Nodes.4.Society.INFORMAL.Relationship_Parameters.Condom_Usage_Probability.Max": 0.5394661585671863,
+  "Nodes.4.Society.INFORMAL.Relationship_Parameters.Condom_Usage_Probability.Mid": 1996.4820450924808,
+  "Nodes.4.Society.INFORMAL.Relationship_Parameters.Condom_Usage_Probability.Rate": 0.4450260130672992,
+  "Nodes.4.Society.INFORMAL.Relationship_Parameters.Duration_Weibull_Heterogeneity": 0.75,
+  "Nodes.4.Society.MARITAL.Pair_Formation_Parameters.Formation_Rate_Constant": 0.0001518919795595123,
+  "Nodes.4.Society.MARITAL.Relationship_Parameters.Condom_Usage_Probability.Max": 0.24590465975649178,
+  "Nodes.4.Society.MARITAL.Relationship_Parameters.Condom_Usage_Probability.Mid": 1999.4681936331742,
+  "Nodes.4.Society.MARITAL.Relationship_Parameters.Condom_Usage_Probability.Rate": 1.1451013673472783,
+  "Nodes.4.Society.TRANSITORY.Pair_Formation_Parameters.Formation_Rate_Constant": 0.0013938775484991467,
+  "Nodes.4.Society.TRANSITORY.Relationship_Parameters.Condom_Usage_Probability.Max": 0.19282523494082768,
+  "Nodes.4.Society.TRANSITORY.Relationship_Parameters.Condom_Usage_Probability.Mid": 2003.7175490417835,
+  "Nodes.4.Society.TRANSITORY.Relationship_Parameters.Condom_Usage_Probability.Rate": 2.697844685373552,
+  "Nodes.5.IndividualProperties.1.Initial_Distribution": [
+    0.09742247074262056,
+    0.9025775292573794,
+    0
+  ],
+  "Nodes.5.Society.INFORMAL.Pair_Formation_Parameters.Formation_Rate_Constant": 0.0003110801151894828,
+  "Nodes.5.Society.INFORMAL.Relationship_Parameters.Condom_Usage_Probability.Max": 0.1999569983412093,
+  "Nodes.5.Society.INFORMAL.Relationship_Parameters.Condom_Usage_Probability.Mid": 1996.4820450924808,
+  "Nodes.5.Society.INFORMAL.Relationship_Parameters.Condom_Usage_Probability.Rate": 0.4450260130672992,
+  "Nodes.5.Society.INFORMAL.Relationship_Parameters.Duration_Weibull_Heterogeneity": 0.75,
+  "Nodes.5.Society.MARITAL.Pair_Formation_Parameters.Formation_Rate_Constant": 0.0001518919795595123,
+  "Nodes.5.Society.MARITAL.Relationship_Parameters.Condom_Usage_Probability.Max": 0.24590465975649178,
+  "Nodes.5.Society.MARITAL.Relationship_Parameters.Condom_Usage_Probability.Mid": 1999.4681936331742,
+  "Nodes.5.Society.MARITAL.Relationship_Parameters.Condom_Usage_Probability.Rate": 1.1451013673472783,
+  "Nodes.5.Society.TRANSITORY.Pair_Formation_Parameters.Formation_Rate_Constant": 0.0013938775484991467,
+  "Nodes.5.Society.TRANSITORY.Relationship_Parameters.Condom_Usage_Probability.Max": 0.47971893511544017,
+  "Nodes.5.Society.TRANSITORY.Relationship_Parameters.Condom_Usage_Probability.Mid": 2003.7175490417835,
+  "Nodes.5.Society.TRANSITORY.Relationship_Parameters.Condom_Usage_Probability.Rate": 2.697844685373552,
+  "Nodes.6.IndividualProperties.1.Initial_Distribution": [
+    0.2889767838072952,
+    0.7110232161927048,
+    0
+  ],
+  "Nodes.6.Society.INFORMAL.Pair_Formation_Parameters.Formation_Rate_Constant": 0.0003110801151894828,
+  "Nodes.6.Society.INFORMAL.Relationship_Parameters.Condom_Usage_Probability.Max": 0.5001242128244195,
+  "Nodes.6.Society.INFORMAL.Relationship_Parameters.Condom_Usage_Probability.Mid": 1996.4820450924808,
+  "Nodes.6.Society.INFORMAL.Relationship_Parameters.Condom_Usage_Probability.Rate": 0.4450260130672992,
+  "Nodes.6.Society.INFORMAL.Relationship_Parameters.Duration_Weibull_Heterogeneity": 0.75,
+  "Nodes.6.Society.MARITAL.Pair_Formation_Parameters.Formation_Rate_Constant": 0.0001518919795595123,
+  "Nodes.6.Society.MARITAL.Relationship_Parameters.Condom_Usage_Probability.Max": 0.24590465975649178,
+  "Nodes.6.Society.MARITAL.Relationship_Parameters.Condom_Usage_Probability.Mid": 1999.4681936331742,
+  "Nodes.6.Society.MARITAL.Relationship_Parameters.Condom_Usage_Probability.Rate": 1.1451013673472783,
+  "Nodes.6.Society.TRANSITORY.Pair_Formation_Parameters.Formation_Rate_Constant": 0.0013938775484991467,
+  "Nodes.6.Society.TRANSITORY.Relationship_Parameters.Condom_Usage_Probability.Max": 0.6614779366144907,
+  "Nodes.6.Society.TRANSITORY.Relationship_Parameters.Condom_Usage_Probability.Mid": 2003.7175490417835,
+  "Nodes.6.Society.TRANSITORY.Relationship_Parameters.Condom_Usage_Probability.Rate": 2.697844685373552,
+  "Nodes.7.IndividualProperties.1.Initial_Distribution": [
+    0.4506806180400353,
+    0.5493193819599647,
+    0
+  ],
+  "Nodes.7.Society.INFORMAL.Pair_Formation_Parameters.Formation_Rate_Constant": 0.0003110801151894828,
+  "Nodes.7.Society.INFORMAL.Relationship_Parameters.Condom_Usage_Probability.Max": 0.47025626708213625,
+  "Nodes.7.Society.INFORMAL.Relationship_Parameters.Condom_Usage_Probability.Mid": 1996.4820450924808,
+  "Nodes.7.Society.INFORMAL.Relationship_Parameters.Condom_Usage_Probability.Rate": 0.4450260130672992,
+  "Nodes.7.Society.INFORMAL.Relationship_Parameters.Duration_Weibull_Heterogeneity": 0.75,
+  "Nodes.7.Society.MARITAL.Pair_Formation_Parameters.Formation_Rate_Constant": 0.0001518919795595123,
+  "Nodes.7.Society.MARITAL.Relationship_Parameters.Condom_Usage_Probability.Max": 0.24590465975649178,
+  "Nodes.7.Society.MARITAL.Relationship_Parameters.Condom_Usage_Probability.Mid": 1999.4681936331742,
+  "Nodes.7.Society.MARITAL.Relationship_Parameters.Condom_Usage_Probability.Rate": 1.1451013673472783,
+  "Nodes.7.Society.TRANSITORY.Pair_Formation_Parameters.Formation_Rate_Constant": 0.0013938775484991467,
+  "Nodes.7.Society.TRANSITORY.Relationship_Parameters.Condom_Usage_Probability.Max": 0.6068551683218311,
+  "Nodes.7.Society.TRANSITORY.Relationship_Parameters.Condom_Usage_Probability.Mid": 2003.7175490417835,
+  "Nodes.7.Society.TRANSITORY.Relationship_Parameters.Condom_Usage_Probability.Rate": 2.697844685373552,
+  "Nodes.8.IndividualProperties.1.Initial_Distribution": [
+    0.3773047073632529,
+    0.622695292636747,
+    0
+  ],
+  "Nodes.8.Society.INFORMAL.Pair_Formation_Parameters.Formation_Rate_Constant": 0.0003110801151894828,
+  "Nodes.8.Society.INFORMAL.Relationship_Parameters.Condom_Usage_Probability.Max": 0.5254377905000226,
+  "Nodes.8.Society.INFORMAL.Relationship_Parameters.Condom_Usage_Probability.Mid": 1996.4820450924808,
+  "Nodes.8.Society.INFORMAL.Relationship_Parameters.Condom_Usage_Probability.Rate": 0.4450260130672992,
+  "Nodes.8.Society.INFORMAL.Relationship_Parameters.Duration_Weibull_Heterogeneity": 0.75,
+  "Nodes.8.Society.MARITAL.Pair_Formation_Parameters.Formation_Rate_Constant": 0.0001518919795595123,
+  "Nodes.8.Society.MARITAL.Relationship_Parameters.Condom_Usage_Probability.Max": 0.24590465975649178,
+  "Nodes.8.Society.MARITAL.Relationship_Parameters.Condom_Usage_Probability.Mid": 1999.4681936331742,
+  "Nodes.8.Society.MARITAL.Relationship_Parameters.Condom_Usage_Probability.Rate": 1.1451013673472783,
+  "Nodes.8.Society.TRANSITORY.Pair_Formation_Parameters.Formation_Rate_Constant": 0.0013938775484991467,
+  "Nodes.8.Society.TRANSITORY.Relationship_Parameters.Condom_Usage_Probability.Max": 0.7339993803409234,
+  "Nodes.8.Society.TRANSITORY.Relationship_Parameters.Condom_Usage_Probability.Mid": 2003.7175490417835,
+  "Nodes.8.Society.TRANSITORY.Relationship_Parameters.Condom_Usage_Probability.Rate": 2.697844685373552,
+  "Nodes.9.IndividualProperties.1.Initial_Distribution": [
+    0.26545767084414235,
+    0.7345423291558577,
+    0
+  ],
+  "Nodes.9.Society.INFORMAL.Pair_Formation_Parameters.Formation_Rate_Constant": 0.0003110801151894828,
+  "Nodes.9.Society.INFORMAL.Relationship_Parameters.Condom_Usage_Probability.Max": 0.08084047583943192,
+  "Nodes.9.Society.INFORMAL.Relationship_Parameters.Condom_Usage_Probability.Mid": 1996.4820450924808,
+  "Nodes.9.Society.INFORMAL.Relationship_Parameters.Condom_Usage_Probability.Rate": 0.4450260130672992,
+  "Nodes.9.Society.INFORMAL.Relationship_Parameters.Duration_Weibull_Heterogeneity": 0.75,
+  "Nodes.9.Society.MARITAL.Pair_Formation_Parameters.Formation_Rate_Constant": 0.0001518919795595123,
+  "Nodes.9.Society.MARITAL.Relationship_Parameters.Condom_Usage_Probability.Max": 0.24590465975649178,
+  "Nodes.9.Society.MARITAL.Relationship_Parameters.Condom_Usage_Probability.Mid": 1999.4681936331742,
+  "Nodes.9.Society.MARITAL.Relationship_Parameters.Condom_Usage_Probability.Rate": 1.1451013673472783,
+  "Nodes.9.Society.TRANSITORY.Pair_Formation_Parameters.Formation_Rate_Constant": 0.0013938775484991467,
+  "Nodes.9.Society.TRANSITORY.Relationship_Parameters.Condom_Usage_Probability.Max": 0.6571584459241158,
+  "Nodes.9.Society.TRANSITORY.Relationship_Parameters.Condom_Usage_Probability.Mid": 2003.7175490417835,
+  "Nodes.9.Society.TRANSITORY.Relationship_Parameters.Condom_Usage_Probability.Rate": 2.697844685373552,
+  "Run_Number": 18870,
+  "Scenario": "StatusQuo_Baseline",
+  "Sexual_Debut_Age_Female_Weibull_Heterogeneity": 0.22879014618006074,
+  "Sexual_Debut_Age_Female_Weibull_Scale": 18.58690595138857,
+  "Sexual_Debut_Age_Male_Weibull_Heterogeneity": 0.16724142768065947,
+  "Sexual_Debut_Age_Male_Weibull_Scale": 16.697049080432016,
+  "[BUILDER] Actual_IndividualIntervention_Config__KP_ART_Link.Ramp_Max": 0.90537783307582,
+  "[BUILDER] Actual_IndividualIntervention_Config__KP_ART_Link.Ramp_MidYear": 1998.0260997628823,
+  "[BUILDER] Actual_IndividualIntervention_Config__KP_PreART_Link.Ramp_Max": 0.9696114849995182,
+  "[BUILDER] Actual_IndividualIntervention_Config__KP_PreART_Link.Ramp_MidYear": 2006.6570437048927,
+  "[BUILDER] Actual_IndividualIntervention_Config__KP_PreART_Link.Ramp_Min": 0.8426241194165661,
+  "[BUILDER] Initial_Distribution__KP_Risk_Central": [
+    0.2397847853353113,
+    0.7602152146646887,
+    0
+  ],
+  "[BUILDER] Initial_Distribution__KP_Risk_Copperbelt": [
+    0.3342526638513303,
+    0.6657473361486697,
+    0
+  ],
+  "[BUILDER] Initial_Distribution__KP_Risk_Eastern": [
+    0.12983285701710967,
+    0.8701671429828903,
+    0
+  ],
+  "[BUILDER] Initial_Distribution__KP_Risk_Luapula": [
+    0.24363332105362706,
+    0.756366678946373,
+    0
+  ],
+  "[BUILDER] Initial_Distribution__KP_Risk_Lusaka": [
+    0.38182822137539885,
+    0.6181717786246012,
+    0
+  ],
+  "[BUILDER] Initial_Distribution__KP_Risk_Muchinga": [
+    0.09742247074262056,
+    0.9025775292573794,
+    0
+  ],
+  "[BUILDER] Initial_Distribution__KP_Risk_Northern": [
+    0.4506806180400353,
+    0.5493193819599647,
+    0
+  ],
+  "[BUILDER] Initial_Distribution__KP_Risk_Northwestern": [
+    0.2889767838072952,
+    0.7110232161927048,
+    0
+  ],
+  "[BUILDER] Initial_Distribution__KP_Risk_Southern": [
+    0.3773047073632529,
+    0.622695292636747,
+    0
+  ],
+  "[BUILDER] Initial_Distribution__KP_Risk_Western": [
+    0.26545767084414235,
+    0.7345423291558577,
+    0
+  ],
+  "[BUILDER] Society__KP_Central.INFORMAL.Relationship_Parameters.Condom_Usage_Probability.Max": 0.5136641156238384,
+  "[BUILDER] Society__KP_Central.TRANSITORY.Relationship_Parameters.Condom_Usage_Probability.Max": 0.6784728007507341,
+  "[BUILDER] Society__KP_Copperbelt.INFORMAL.Relationship_Parameters.Condom_Usage_Probability.Max": 0.21055779683060294,
+  "[BUILDER] Society__KP_Copperbelt.TRANSITORY.Relationship_Parameters.Condom_Usage_Probability.Max": 0.4246386015161765,
+  "[BUILDER] Society__KP_Defaults.INFORMAL.Pair_Formation_Parameters.Formation_Rate_Constant": 0.0003110801151894828,
+  "[BUILDER] Society__KP_Defaults.INFORMAL.Relationship_Parameters.Condom_Usage_Probability.Max": 0.44638444943520356,
+  "[BUILDER] Society__KP_Defaults.INFORMAL.Relationship_Parameters.Condom_Usage_Probability.Mid": 1996.4820450924808,
+  "[BUILDER] Society__KP_Defaults.INFORMAL.Relationship_Parameters.Condom_Usage_Probability.Rate": 0.4450260130672992,
+  "[BUILDER] Society__KP_Defaults.INFORMAL.Relationship_Parameters.Duration_Weibull_Heterogeneity": 0.75,
+  "[BUILDER] Society__KP_Defaults.MARITAL.Pair_Formation_Parameters.Formation_Rate_Constant": 0.0001518919795595123,
+  "[BUILDER] Society__KP_Defaults.MARITAL.Relationship_Parameters.Condom_Usage_Probability.Max": 0.24590465975649178,
+  "[BUILDER] Society__KP_Defaults.MARITAL.Relationship_Parameters.Condom_Usage_Probability.Mid": 1999.4681936331742,
+  "[BUILDER] Society__KP_Defaults.MARITAL.Relationship_Parameters.Condom_Usage_Probability.Rate": 1.1451013673472783,
+  "[BUILDER] Society__KP_Defaults.TRANSITORY.Pair_Formation_Parameters.Formation_Rate_Constant": 0.0013938775484991467,
+  "[BUILDER] Society__KP_Defaults.TRANSITORY.Relationship_Parameters.Condom_Usage_Probability.Max": 0.30297454003256113,
+  "[BUILDER] Society__KP_Defaults.TRANSITORY.Relationship_Parameters.Condom_Usage_Probability.Mid": 2003.7175490417835,
+  "[BUILDER] Society__KP_Defaults.TRANSITORY.Relationship_Parameters.Condom_Usage_Probability.Rate": 2.697844685373552,
+  "[BUILDER] Society__KP_Defaults_All_Nodes.INFORMAL.Concurrency_Parameters.LOW.Max_Simultaneous_Relationships_Female": 1.2109578814522994,
+  "[BUILDER] Society__KP_Defaults_All_Nodes.INFORMAL.Concurrency_Parameters.LOW.Max_Simultaneous_Relationships_Male": 1.2256703288389241,
+  "[BUILDER] Society__KP_Defaults_All_Nodes.INFORMAL.Concurrency_Parameters.LOW.Prob_Extra_Relationship_Male": 0.3045032320125043,
+  "[BUILDER] Society__KP_Defaults_All_Nodes.INFORMAL.Concurrency_Parameters.MEDIUM.Max_Simultaneous_Relationships_Female": 2.7208912856410095,
+  "[BUILDER] Society__KP_Defaults_All_Nodes.INFORMAL.Concurrency_Parameters.MEDIUM.Max_Simultaneous_Relationships_Male": 2.6872503290967984,
+  "[BUILDER] Society__KP_Defaults_All_Nodes.INFORMAL.Concurrency_Parameters.MEDIUM.Prob_Extra_Relationship_Female": 0.4090555906820218,
+  "[BUILDER] Society__KP_Defaults_All_Nodes.INFORMAL.Concurrency_Parameters.MEDIUM.Prob_Extra_Relationship_Male": 0.41141325962260117,
+  "[BUILDER] Society__KP_Defaults_All_Nodes.MARITAL.Concurrency_Parameters.MEDIUM.Max_Simultaneous_Relationships_Female": 1.8340956931957046,
+  "[BUILDER] Society__KP_Defaults_All_Nodes.MARITAL.Concurrency_Parameters.MEDIUM.Max_Simultaneous_Relationships_Male": 1.8176354150190723,
+  "[BUILDER] Society__KP_Defaults_All_Nodes.TRANSITORY.Concurrency_Parameters.LOW.Max_Simultaneous_Relationships_Female": 1.8249402693204688,
+  "[BUILDER] Society__KP_Defaults_All_Nodes.TRANSITORY.Concurrency_Parameters.LOW.Max_Simultaneous_Relationships_Male": 1.8420537006774151,
+  "[BUILDER] Society__KP_Defaults_All_Nodes.TRANSITORY.Concurrency_Parameters.LOW.Prob_Extra_Relationship_Female": 0.06261611181520445,
+  "[BUILDER] Society__KP_Defaults_All_Nodes.TRANSITORY.Concurrency_Parameters.LOW.Prob_Extra_Relationship_Male": 0.1746695511621588,
+  "[BUILDER] Society__KP_Defaults_All_Nodes.TRANSITORY.Concurrency_Parameters.MEDIUM.Max_Simultaneous_Relationships_Female": 2.2664325214335963,
+  "[BUILDER] Society__KP_Defaults_All_Nodes.TRANSITORY.Concurrency_Parameters.MEDIUM.Max_Simultaneous_Relationships_Male": 2.1744916648673707,
+  "[BUILDER] Society__KP_Defaults_All_Nodes.TRANSITORY.Concurrency_Parameters.MEDIUM.Prob_Extra_Relationship_Female": 0.34189149367730404,
+  "[BUILDER] Society__KP_Defaults_All_Nodes.TRANSITORY.Concurrency_Parameters.MEDIUM.Prob_Extra_Relationship_Male": 0.2742687095564022,
+  "[BUILDER] Society__KP_Eastern.INFORMAL.Relationship_Parameters.Condom_Usage_Probability.Max": 0.16382236345884893,
+  "[BUILDER] Society__KP_Eastern.TRANSITORY.Relationship_Parameters.Condom_Usage_Probability.Max": 0.5107655801913289,
+  "[BUILDER] Society__KP_Luapula.INFORMAL.Relationship_Parameters.Condom_Usage_Probability.Max": 0.5285802340353466,
+  "[BUILDER] Society__KP_Luapula.TRANSITORY.Relationship_Parameters.Condom_Usage_Probability.Max": 0.6863591671888044,
+  "[BUILDER] Society__KP_Lusaka.INFORMAL.Relationship_Parameters.Condom_Usage_Probability.Max": 0.5394661585671863,
+  "[BUILDER] Society__KP_Lusaka.TRANSITORY.Relationship_Parameters.Condom_Usage_Probability.Max": 0.19282523494082768,
+  "[BUILDER] Society__KP_Muchinga.INFORMAL.Relationship_Parameters.Condom_Usage_Probability.Max": 0.1999569983412093,
+  "[BUILDER] Society__KP_Muchinga.TRANSITORY.Relationship_Parameters.Condom_Usage_Probability.Max": 0.47971893511544017,
+  "[BUILDER] Society__KP_Northern.INFORMAL.Relationship_Parameters.Condom_Usage_Probability.Max": 0.47025626708213625,
+  "[BUILDER] Society__KP_Northern.TRANSITORY.Relationship_Parameters.Condom_Usage_Probability.Max": 0.6068551683218311,
+  "[BUILDER] Society__KP_Northwestern.INFORMAL.Relationship_Parameters.Condom_Usage_Probability.Max": 0.5001242128244195,
+  "[BUILDER] Society__KP_Northwestern.TRANSITORY.Relationship_Parameters.Condom_Usage_Probability.Max": 0.6614779366144907,
+  "[BUILDER] Society__KP_Southern.INFORMAL.Relationship_Parameters.Condom_Usage_Probability.Max": 0.5254377905000226,
+  "[BUILDER] Society__KP_Southern.TRANSITORY.Relationship_Parameters.Condom_Usage_Probability.Max": 0.7339993803409234,
+  "[BUILDER] Society__KP_Western.INFORMAL.Relationship_Parameters.Condom_Usage_Probability.Max": 0.08084047583943192,
+  "[BUILDER] Society__KP_Western.TRANSITORY.Relationship_Parameters.Condom_Usage_Probability.Max": 0.6571584459241158,
+  "[BUILDER] Start_Year__KP_Seeding_Year": 1982,
+  "[BUILDER] Weighting_Matrix_RowMale_ColumnFemale__KP_RiskAssortivity": [
+    [
+      0.1697918441717163,
+      0.8302081558282837,
+      0
+    ],
+    [
+      0.8302081558282837,
+      0.1697918441717163,
+      0.1697918441717163
+    ],
+    [
+      0,
+      0.1697918441717163,
+      0.8302081558282837
+    ]
+  ],
+  "__sample_index__": 8,
+  "__site__": "SEARCH",
+  "exe_collection_id": "c3db1c1e-7313-e911-80ca-f0921c167866",
+  "input_collection_id": "b4a7acdc-7313-e911-80ca-f0921c167866",
+  "pyOptimTool": null
+}
+ 
+- Simulation 845199e7-7313-e911-80ca-f0921c167866
+{
+  "Base_Infectivity": 0.0006549819939979653,
+  "Circumcision_Reduced_Acquire": 0.6,
+  "Defaults.Society.INFORMAL.Concurrency_Parameters.LOW.Max_Simultaneous_Relationships_Female": 1.1952166768842367,
+  "Defaults.Society.INFORMAL.Concurrency_Parameters.LOW.Max_Simultaneous_Relationships_Male": 1.2142705823710533,
+  "Defaults.Society.INFORMAL.Concurrency_Parameters.LOW.Prob_Extra_Relationship_Male": 0.2971378775047692,
+  "Defaults.Society.INFORMAL.Concurrency_Parameters.MEDIUM.Max_Simultaneous_Relationships_Female": 2.7346807071124077,
+  "Defaults.Society.INFORMAL.Concurrency_Parameters.MEDIUM.Max_Simultaneous_Relationships_Male": 2.698372633853165,
+  "Defaults.Society.INFORMAL.Concurrency_Parameters.MEDIUM.Prob_Extra_Relationship_Female": 0.3934849539047048,
+  "Defaults.Society.INFORMAL.Concurrency_Parameters.MEDIUM.Prob_Extra_Relationship_Male": 0.4088908126668874,
+  "Defaults.Society.INFORMAL.Pair_Formation_Parameters.Assortivity.Weighting_Matrix_RowMale_ColumnFemale": [
+    [
+      0.16484945037941373,
+      0.8351505496205862,
+      0
+    ],
+    [
+      0.8351505496205862,
+      0.16484945037941373,
+      0.16484945037941373
+    ],
+    [
+      0,
+      0.16484945037941373,
+      0.8351505496205862
+    ]
+  ],
+  "Defaults.Society.MARITAL.Concurrency_Parameters.MEDIUM.Max_Simultaneous_Relationships_Female": 1.8267298724703647,
+  "Defaults.Society.MARITAL.Concurrency_Parameters.MEDIUM.Max_Simultaneous_Relationships_Male": 1.8141942935790416,
+  "Defaults.Society.MARITAL.Pair_Formation_Parameters.Assortivity.Weighting_Matrix_RowMale_ColumnFemale": [
+    [
+      0.16484945037941373,
+      0.8351505496205862,
+      0
+    ],
+    [
+      0.8351505496205862,
+      0.16484945037941373,
+      0.16484945037941373
+    ],
+    [
+      0,
+      0.16484945037941373,
+      0.8351505496205862
+    ]
+  ],
+  "Defaults.Society.TRANSITORY.Concurrency_Parameters.LOW.Max_Simultaneous_Relationships_Female": 1.8283509829867153,
+  "Defaults.Society.TRANSITORY.Concurrency_Parameters.LOW.Max_Simultaneous_Relationships_Male": 1.842413037192007,
+  "Defaults.Society.TRANSITORY.Concurrency_Parameters.LOW.Prob_Extra_Relationship_Female": 0.05055949343848145,
+  "Defaults.Society.TRANSITORY.Concurrency_Parameters.LOW.Prob_Extra_Relationship_Male": 0.17667641619359417,
+  "Defaults.Society.TRANSITORY.Concurrency_Parameters.MEDIUM.Max_Simultaneous_Relationships_Female": 2.169815471935673,
+  "Defaults.Society.TRANSITORY.Concurrency_Parameters.MEDIUM.Max_Simultaneous_Relationships_Male": 2.2471537782188586,
+  "Defaults.Society.TRANSITORY.Concurrency_Parameters.MEDIUM.Prob_Extra_Relationship_Female": 0.3242373134255332,
+  "Defaults.Society.TRANSITORY.Concurrency_Parameters.MEDIUM.Prob_Extra_Relationship_Male": 0.31746416978801095,
+  "Defaults.Society.TRANSITORY.Pair_Formation_Parameters.Assortivity.Weighting_Matrix_RowMale_ColumnFemale": [
+    [
+      0.16484945037941373,
+      0.8351505496205862,
+      0
+    ],
+    [
+      0.8351505496205862,
+      0.16484945037941373,
+      0.16484945037941373
+    ],
+    [
+      0,
+      0.16484945037941373,
+      0.8351505496205862
+    ]
+  ],
+  "Events.22.Start_Year": 1982,
+  "Events.88.Event_Coordinator_Config.Intervention_Config.Actual_IndividualIntervention_Config.Ramp_Max": 0.966523218382654,
+  "Events.88.Event_Coordinator_Config.Intervention_Config.Actual_IndividualIntervention_Config.Ramp_MidYear": 2006.5226139635868,
+  "Events.88.Event_Coordinator_Config.Intervention_Config.Actual_IndividualIntervention_Config.Ramp_Min": 0.8147470587408778,
+  "Events.94.Event_Coordinator_Config.Intervention_Config.Actual_IndividualIntervention_Config.Ramp_Max": 0.8946548921833767,
+  "Events.94.Event_Coordinator_Config.Intervention_Config.Actual_IndividualIntervention_Config.Ramp_MidYear": 1997.7479202659113,
+  "Male_To_Female_Relative_Infectivity_Multipliers": [
+    2.139300454230376,
+    2.139300454230376,
+    1.7724205512520113
+  ],
+  "Nodes.0.IndividualProperties.1.Initial_Distribution": [
+    0.25940382007652046,
+    0.7405961799234795,
+    0
+  ],
+  "Nodes.0.Society.INFORMAL.Pair_Formation_Parameters.Formation_Rate_Constant": 0.00033607311388014007,
+  "Nodes.0.Society.INFORMAL.Relationship_Parameters.Condom_Usage_Probability.Max": 0.5136121584430546,
+  "Nodes.0.Society.INFORMAL.Relationship_Parameters.Condom_Usage_Probability.Mid": 1996.0488525124754,
+  "Nodes.0.Society.INFORMAL.Relationship_Parameters.Condom_Usage_Probability.Rate": 0.31472306292416335,
+  "Nodes.0.Society.INFORMAL.Relationship_Parameters.Duration_Weibull_Heterogeneity": 0.75,
+  "Nodes.0.Society.MARITAL.Pair_Formation_Parameters.Formation_Rate_Constant": 0.00014939179799188377,
+  "Nodes.0.Society.MARITAL.Relationship_Parameters.Condom_Usage_Probability.Max": 0.24776448087030317,
+  "Nodes.0.Society.MARITAL.Relationship_Parameters.Condom_Usage_Probability.Mid": 1999.0662345741973,
+  "Nodes.0.Society.MARITAL.Relationship_Parameters.Condom_Usage_Probability.Rate": 1.1477370467850123,
+  "Nodes.0.Society.TRANSITORY.Pair_Formation_Parameters.Formation_Rate_Constant": 0.0013999744751569578,
+  "Nodes.0.Society.TRANSITORY.Relationship_Parameters.Condom_Usage_Probability.Max": 0.6775223048683497,
+  "Nodes.0.Society.TRANSITORY.Relationship_Parameters.Condom_Usage_Probability.Mid": 2003.492577308467,
+  "Nodes.0.Society.TRANSITORY.Relationship_Parameters.Condom_Usage_Probability.Rate": 2.6344042117574866,
+  "Nodes.1.IndividualProperties.1.Initial_Distribution": [
+    0.33888481683128724,
+    0.6611151831687128,
+    0
+  ],
+  "Nodes.1.Society.INFORMAL.Pair_Formation_Parameters.Formation_Rate_Constant": 0.00033607311388014007,
+  "Nodes.1.Society.INFORMAL.Relationship_Parameters.Condom_Usage_Probability.Max": 0.2240019333325607,
+  "Nodes.1.Society.INFORMAL.Relationship_Parameters.Condom_Usage_Probability.Mid": 1996.0488525124754,
+  "Nodes.1.Society.INFORMAL.Relationship_Parameters.Condom_Usage_Probability.Rate": 0.31472306292416335,
+  "Nodes.1.Society.INFORMAL.Relationship_Parameters.Duration_Weibull_Heterogeneity": 0.75,
+  "Nodes.1.Society.MARITAL.Pair_Formation_Parameters.Formation_Rate_Constant": 0.00014939179799188377,
+  "Nodes.1.Society.MARITAL.Relationship_Parameters.Condom_Usage_Probability.Max": 0.24776448087030317,
+  "Nodes.1.Society.MARITAL.Relationship_Parameters.Condom_Usage_Probability.Mid": 1999.0662345741973,
+  "Nodes.1.Society.MARITAL.Relationship_Parameters.Condom_Usage_Probability.Rate": 1.1477370467850123,
+  "Nodes.1.Society.TRANSITORY.Pair_Formation_Parameters.Formation_Rate_Constant": 0.0013999744751569578,
+  "Nodes.1.Society.TRANSITORY.Relationship_Parameters.Condom_Usage_Probability.Max": 0.4126697100417363,
+  "Nodes.1.Society.TRANSITORY.Relationship_Parameters.Condom_Usage_Probability.Mid": 2003.492577308467,
+  "Nodes.1.Society.TRANSITORY.Relationship_Parameters.Condom_Usage_Probability.Rate": 2.6344042117574866,
+  "Nodes.2.IndividualProperties.1.Initial_Distribution": [
+    0.12025328096364707,
+    0.8797467190363529,
+    0
+  ],
+  "Nodes.2.Society.INFORMAL.Pair_Formation_Parameters.Formation_Rate_Constant": 0.00033607311388014007,
+  "Nodes.2.Society.INFORMAL.Relationship_Parameters.Condom_Usage_Probability.Max": 0.1819162623900686,
+  "Nodes.2.Society.INFORMAL.Relationship_Parameters.Condom_Usage_Probability.Mid": 1996.0488525124754,
+  "Nodes.2.Society.INFORMAL.Relationship_Parameters.Condom_Usage_Probability.Rate": 0.31472306292416335,
+  "Nodes.2.Society.INFORMAL.Relationship_Parameters.Duration_Weibull_Heterogeneity": 0.75,
+  "Nodes.2.Society.MARITAL.Pair_Formation_Parameters.Formation_Rate_Constant": 0.00014939179799188377,
+  "Nodes.2.Society.MARITAL.Relationship_Parameters.Condom_Usage_Probability.Max": 0.24776448087030317,
+  "Nodes.2.Society.MARITAL.Relationship_Parameters.Condom_Usage_Probability.Mid": 1999.0662345741973,
+  "Nodes.2.Society.MARITAL.Relationship_Parameters.Condom_Usage_Probability.Rate": 1.1477370467850123,
+  "Nodes.2.Society.TRANSITORY.Pair_Formation_Parameters.Formation_Rate_Constant": 0.0013999744751569578,
+  "Nodes.2.Society.TRANSITORY.Relationship_Parameters.Condom_Usage_Probability.Max": 0.5027391979012437,
+  "Nodes.2.Society.TRANSITORY.Relationship_Parameters.Condom_Usage_Probability.Mid": 2003.492577308467,
+  "Nodes.2.Society.TRANSITORY.Relationship_Parameters.Condom_Usage_Probability.Rate": 2.6344042117574866,
+  "Nodes.3.IndividualProperties.1.Initial_Distribution": [
+    0.23372710364652863,
+    0.7662728963534714,
+    0
+  ],
+  "Nodes.3.Society.INFORMAL.Pair_Formation_Parameters.Formation_Rate_Constant": 0.00033607311388014007,
+  "Nodes.3.Society.INFORMAL.Relationship_Parameters.Condom_Usage_Probability.Max": 0.526149818157069,
+  "Nodes.3.Society.INFORMAL.Relationship_Parameters.Condom_Usage_Probability.Mid": 1996.0488525124754,
+  "Nodes.3.Society.INFORMAL.Relationship_Parameters.Condom_Usage_Probability.Rate": 0.31472306292416335,
+  "Nodes.3.Society.INFORMAL.Relationship_Parameters.Duration_Weibull_Heterogeneity": 0.75,
+  "Nodes.3.Society.MARITAL.Pair_Formation_Parameters.Formation_Rate_Constant": 0.00014939179799188377,
+  "Nodes.3.Society.MARITAL.Relationship_Parameters.Condom_Usage_Probability.Max": 0.24776448087030317,
+  "Nodes.3.Society.MARITAL.Relationship_Parameters.Condom_Usage_Probability.Mid": 1999.0662345741973,
+  "Nodes.3.Society.MARITAL.Relationship_Parameters.Condom_Usage_Probability.Rate": 1.1477370467850123,
+  "Nodes.3.Society.TRANSITORY.Pair_Formation_Parameters.Formation_Rate_Constant": 0.0013999744751569578,
+  "Nodes.3.Society.TRANSITORY.Relationship_Parameters.Condom_Usage_Probability.Max": 0.6522600107007908,
+  "Nodes.3.Society.TRANSITORY.Relationship_Parameters.Condom_Usage_Probability.Mid": 2003.492577308467,
+  "Nodes.3.Society.TRANSITORY.Relationship_Parameters.Condom_Usage_Probability.Rate": 2.6344042117574866,
+  "Nodes.4.IndividualProperties.1.Initial_Distribution": [
+    0.3870957429751921,
+    0.6129042570248079,
+    0
+  ],
+  "Nodes.4.Society.INFORMAL.Pair_Formation_Parameters.Formation_Rate_Constant": 0.00033607311388014007,
+  "Nodes.4.Society.INFORMAL.Relationship_Parameters.Condom_Usage_Probability.Max": 0.5316269474361998,
+  "Nodes.4.Society.INFORMAL.Relationship_Parameters.Condom_Usage_Probability.Mid": 1996.0488525124754,
+  "Nodes.4.Society.INFORMAL.Relationship_Parameters.Condom_Usage_Probability.Rate": 0.31472306292416335,
+  "Nodes.4.Society.INFORMAL.Relationship_Parameters.Duration_Weibull_Heterogeneity": 0.75,
+  "Nodes.4.Society.MARITAL.Pair_Formation_Parameters.Formation_Rate_Constant": 0.00014939179799188377,
+  "Nodes.4.Society.MARITAL.Relationship_Parameters.Condom_Usage_Probability.Max": 0.24776448087030317,
+  "Nodes.4.Society.MARITAL.Relationship_Parameters.Condom_Usage_Probability.Mid": 1999.0662345741973,
+  "Nodes.4.Society.MARITAL.Relationship_Parameters.Condom_Usage_Probability.Rate": 1.1477370467850123,
+  "Nodes.4.Society.TRANSITORY.Pair_Formation_Parameters.Formation_Rate_Constant": 0.0013999744751569578,
+  "Nodes.4.Society.TRANSITORY.Relationship_Parameters.Condom_Usage_Probability.Max": 0.18766545533361847,
+  "Nodes.4.Society.TRANSITORY.Relationship_Parameters.Condom_Usage_Probability.Mid": 2003.492577308467,
+  "Nodes.4.Society.TRANSITORY.Relationship_Parameters.Condom_Usage_Probability.Rate": 2.6344042117574866,
+  "Nodes.5.IndividualProperties.1.Initial_Distribution": [
+    0.09380721791168263,
+    0.9061927820883173,
+    0
+  ],
+  "Nodes.5.Society.INFORMAL.Pair_Formation_Parameters.Formation_Rate_Constant": 0.00033607311388014007,
+  "Nodes.5.Society.INFORMAL.Relationship_Parameters.Condom_Usage_Probability.Max": 0.19698572089977556,
+  "Nodes.5.Society.INFORMAL.Relationship_Parameters.Condom_Usage_Probability.Mid": 1996.0488525124754,
+  "Nodes.5.Society.INFORMAL.Relationship_Parameters.Condom_Usage_Probability.Rate": 0.31472306292416335,
+  "Nodes.5.Society.INFORMAL.Relationship_Parameters.Duration_Weibull_Heterogeneity": 0.75,
+  "Nodes.5.Society.MARITAL.Pair_Formation_Parameters.Formation_Rate_Constant": 0.00014939179799188377,
+  "Nodes.5.Society.MARITAL.Relationship_Parameters.Condom_Usage_Probability.Max": 0.24776448087030317,
+  "Nodes.5.Society.MARITAL.Relationship_Parameters.Condom_Usage_Probability.Mid": 1999.0662345741973,
+  "Nodes.5.Society.MARITAL.Relationship_Parameters.Condom_Usage_Probability.Rate": 1.1477370467850123,
+  "Nodes.5.Society.TRANSITORY.Pair_Formation_Parameters.Formation_Rate_Constant": 0.0013999744751569578,
+  "Nodes.5.Society.TRANSITORY.Relationship_Parameters.Condom_Usage_Probability.Max": 0.4962312931956315,
+  "Nodes.5.Society.TRANSITORY.Relationship_Parameters.Condom_Usage_Probability.Mid": 2003.492577308467,
+  "Nodes.5.Society.TRANSITORY.Relationship_Parameters.Condom_Usage_Probability.Rate": 2.6344042117574866,
+  "Nodes.6.IndividualProperties.1.Initial_Distribution": [
+    0.27838875095011256,
+    0.7216112490498874,
+    0
+  ],
+  "Nodes.6.Society.INFORMAL.Pair_Formation_Parameters.Formation_Rate_Constant": 0.00033607311388014007,
+  "Nodes.6.Society.INFORMAL.Relationship_Parameters.Condom_Usage_Probability.Max": 0.4847194057742141,
+  "Nodes.6.Society.INFORMAL.Relationship_Parameters.Condom_Usage_Probability.Mid": 1996.0488525124754,
+  "Nodes.6.Society.INFORMAL.Relationship_Parameters.Condom_Usage_Probability.Rate": 0.31472306292416335,
+  "Nodes.6.Society.INFORMAL.Relationship_Parameters.Duration_Weibull_Heterogeneity": 0.75,
+  "Nodes.6.Society.MARITAL.Pair_Formation_Parameters.Formation_Rate_Constant": 0.00014939179799188377,
+  "Nodes.6.Society.MARITAL.Relationship_Parameters.Condom_Usage_Probability.Max": 0.24776448087030317,
+  "Nodes.6.Society.MARITAL.Relationship_Parameters.Condom_Usage_Probability.Mid": 1999.0662345741973,
+  "Nodes.6.Society.MARITAL.Relationship_Parameters.Condom_Usage_Probability.Rate": 1.1477370467850123,
+  "Nodes.6.Society.TRANSITORY.Pair_Formation_Parameters.Formation_Rate_Constant": 0.0013999744751569578,
+  "Nodes.6.Society.TRANSITORY.Relationship_Parameters.Condom_Usage_Probability.Max": 0.6545832631617212,
+  "Nodes.6.Society.TRANSITORY.Relationship_Parameters.Condom_Usage_Probability.Mid": 2003.492577308467,
+  "Nodes.6.Society.TRANSITORY.Relationship_Parameters.Condom_Usage_Probability.Rate": 2.6344042117574866,
+  "Nodes.7.IndividualProperties.1.Initial_Distribution": [
+    0.4476506609548437,
+    0.5523493390451564,
+    0
+  ],
+  "Nodes.7.Society.INFORMAL.Pair_Formation_Parameters.Formation_Rate_Constant": 0.00033607311388014007,
+  "Nodes.7.Society.INFORMAL.Relationship_Parameters.Condom_Usage_Probability.Max": 0.48960480470472956,
+  "Nodes.7.Society.INFORMAL.Relationship_Parameters.Condom_Usage_Probability.Mid": 1996.0488525124754,
+  "Nodes.7.Society.INFORMAL.Relationship_Parameters.Condom_Usage_Probability.Rate": 0.31472306292416335,
+  "Nodes.7.Society.INFORMAL.Relationship_Parameters.Duration_Weibull_Heterogeneity": 0.75,
+  "Nodes.7.Society.MARITAL.Pair_Formation_Parameters.Formation_Rate_Constant": 0.00014939179799188377,
+  "Nodes.7.Society.MARITAL.Relationship_Parameters.Condom_Usage_Probability.Max": 0.24776448087030317,
+  "Nodes.7.Society.MARITAL.Relationship_Parameters.Condom_Usage_Probability.Mid": 1999.0662345741973,
+  "Nodes.7.Society.MARITAL.Relationship_Parameters.Condom_Usage_Probability.Rate": 1.1477370467850123,
+  "Nodes.7.Society.TRANSITORY.Pair_Formation_Parameters.Formation_Rate_Constant": 0.0013999744751569578,
+  "Nodes.7.Society.TRANSITORY.Relationship_Parameters.Condom_Usage_Probability.Max": 0.6045966692062374,
+  "Nodes.7.Society.TRANSITORY.Relationship_Parameters.Condom_Usage_Probability.Mid": 2003.492577308467,
+  "Nodes.7.Society.TRANSITORY.Relationship_Parameters.Condom_Usage_Probability.Rate": 2.6344042117574866,
+  "Nodes.8.IndividualProperties.1.Initial_Distribution": [
+    0.3816434647267418,
+    0.6183565352732582,
+    0
+  ],
+  "Nodes.8.Society.INFORMAL.Pair_Formation_Parameters.Formation_Rate_Constant": 0.00033607311388014007,
+  "Nodes.8.Society.INFORMAL.Relationship_Parameters.Condom_Usage_Probability.Max": 0.5309719729085793,
+  "Nodes.8.Society.INFORMAL.Relationship_Parameters.Condom_Usage_Probability.Mid": 1996.0488525124754,
+  "Nodes.8.Society.INFORMAL.Relationship_Parameters.Condom_Usage_Probability.Rate": 0.31472306292416335,
+  "Nodes.8.Society.INFORMAL.Relationship_Parameters.Duration_Weibull_Heterogeneity": 0.75,
+  "Nodes.8.Society.MARITAL.Pair_Formation_Parameters.Formation_Rate_Constant": 0.00014939179799188377,
+  "Nodes.8.Society.MARITAL.Relationship_Parameters.Condom_Usage_Probability.Max": 0.24776448087030317,
+  "Nodes.8.Society.MARITAL.Relationship_Parameters.Condom_Usage_Probability.Mid": 1999.0662345741973,
+  "Nodes.8.Society.MARITAL.Relationship_Parameters.Condom_Usage_Probability.Rate": 1.1477370467850123,
+  "Nodes.8.Society.TRANSITORY.Pair_Formation_Parameters.Formation_Rate_Constant": 0.0013999744751569578,
+  "Nodes.8.Society.TRANSITORY.Relationship_Parameters.Condom_Usage_Probability.Max": 0.7379319972180419,
+  "Nodes.8.Society.TRANSITORY.Relationship_Parameters.Condom_Usage_Probability.Mid": 2003.492577308467,
+  "Nodes.8.Society.TRANSITORY.Relationship_Parameters.Condom_Usage_Probability.Rate": 2.6344042117574866,
+  "Nodes.9.IndividualProperties.1.Initial_Distribution": [
+    0.27557504374876957,
+    0.7244249562512304,
+    0
+  ],
+  "Nodes.9.Society.INFORMAL.Pair_Formation_Parameters.Formation_Rate_Constant": 0.00033607311388014007,
+  "Nodes.9.Society.INFORMAL.Relationship_Parameters.Condom_Usage_Probability.Max": 0.08233834496872618,
+  "Nodes.9.Society.INFORMAL.Relationship_Parameters.Condom_Usage_Probability.Mid": 1996.0488525124754,
+  "Nodes.9.Society.INFORMAL.Relationship_Parameters.Condom_Usage_Probability.Rate": 0.31472306292416335,
+  "Nodes.9.Society.INFORMAL.Relationship_Parameters.Duration_Weibull_Heterogeneity": 0.75,
+  "Nodes.9.Society.MARITAL.Pair_Formation_Parameters.Formation_Rate_Constant": 0.00014939179799188377,
+  "Nodes.9.Society.MARITAL.Relationship_Parameters.Condom_Usage_Probability.Max": 0.24776448087030317,
+  "Nodes.9.Society.MARITAL.Relationship_Parameters.Condom_Usage_Probability.Mid": 1999.0662345741973,
+  "Nodes.9.Society.MARITAL.Relationship_Parameters.Condom_Usage_Probability.Rate": 1.1477370467850123,
+  "Nodes.9.Society.TRANSITORY.Pair_Formation_Parameters.Formation_Rate_Constant": 0.0013999744751569578,
+  "Nodes.9.Society.TRANSITORY.Relationship_Parameters.Condom_Usage_Probability.Max": 0.6431305424223768,
+  "Nodes.9.Society.TRANSITORY.Relationship_Parameters.Condom_Usage_Probability.Mid": 2003.492577308467,
+  "Nodes.9.Society.TRANSITORY.Relationship_Parameters.Condom_Usage_Probability.Rate": 2.6344042117574866,
+  "Run_Number": 31258,
+  "Scenario": "StatusQuo_Baseline",
+  "Sexual_Debut_Age_Female_Weibull_Heterogeneity": 0.21815998534770656,
+  "Sexual_Debut_Age_Female_Weibull_Scale": 18.55111014284107,
+  "Sexual_Debut_Age_Male_Weibull_Heterogeneity": 0.1707255207938526,
+  "Sexual_Debut_Age_Male_Weibull_Scale": 16.479384096530342,
+  "[BUILDER] Actual_IndividualIntervention_Config__KP_ART_Link.Ramp_Max": 0.8946548921833767,
+  "[BUILDER] Actual_IndividualIntervention_Config__KP_ART_Link.Ramp_MidYear": 1997.7479202659113,
+  "[BUILDER] Actual_IndividualIntervention_Config__KP_PreART_Link.Ramp_Max": 0.966523218382654,
+  "[BUILDER] Actual_IndividualIntervention_Config__KP_PreART_Link.Ramp_MidYear": 2006.5226139635868,
+  "[BUILDER] Actual_IndividualIntervention_Config__KP_PreART_Link.Ramp_Min": 0.8147470587408778,
+  "[BUILDER] Initial_Distribution__KP_Risk_Central": [
+    0.25940382007652046,
+    0.7405961799234795,
+    0
+  ],
+  "[BUILDER] Initial_Distribution__KP_Risk_Copperbelt": [
+    0.33888481683128724,
+    0.6611151831687128,
+    0
+  ],
+  "[BUILDER] Initial_Distribution__KP_Risk_Eastern": [
+    0.12025328096364707,
+    0.8797467190363529,
+    0
+  ],
+  "[BUILDER] Initial_Distribution__KP_Risk_Luapula": [
+    0.23372710364652863,
+    0.7662728963534714,
+    0
+  ],
+  "[BUILDER] Initial_Distribution__KP_Risk_Lusaka": [
+    0.3870957429751921,
+    0.6129042570248079,
+    0
+  ],
+  "[BUILDER] Initial_Distribution__KP_Risk_Muchinga": [
+    0.09380721791168263,
+    0.9061927820883173,
+    0
+  ],
+  "[BUILDER] Initial_Distribution__KP_Risk_Northern": [
+    0.4476506609548437,
+    0.5523493390451564,
+    0
+  ],
+  "[BUILDER] Initial_Distribution__KP_Risk_Northwestern": [
+    0.27838875095011256,
+    0.7216112490498874,
+    0
+  ],
+  "[BUILDER] Initial_Distribution__KP_Risk_Southern": [
+    0.3816434647267418,
+    0.6183565352732582,
+    0
+  ],
+  "[BUILDER] Initial_Distribution__KP_Risk_Western": [
+    0.27557504374876957,
+    0.7244249562512304,
+    0
+  ],
+  "[BUILDER] Society__KP_Central.INFORMAL.Relationship_Parameters.Condom_Usage_Probability.Max": 0.5136121584430546,
+  "[BUILDER] Society__KP_Central.TRANSITORY.Relationship_Parameters.Condom_Usage_Probability.Max": 0.6775223048683497,
+  "[BUILDER] Society__KP_Copperbelt.INFORMAL.Relationship_Parameters.Condom_Usage_Probability.Max": 0.2240019333325607,
+  "[BUILDER] Society__KP_Copperbelt.TRANSITORY.Relationship_Parameters.Condom_Usage_Probability.Max": 0.4126697100417363,
+  "[BUILDER] Society__KP_Defaults.INFORMAL.Pair_Formation_Parameters.Formation_Rate_Constant": 0.00033607311388014007,
+  "[BUILDER] Society__KP_Defaults.INFORMAL.Relationship_Parameters.Condom_Usage_Probability.Max": 0.42887413017429504,
+  "[BUILDER] Society__KP_Defaults.INFORMAL.Relationship_Parameters.Condom_Usage_Probability.Mid": 1996.0488525124754,
+  "[BUILDER] Society__KP_Defaults.INFORMAL.Relationship_Parameters.Condom_Usage_Probability.Rate": 0.31472306292416335,
+  "[BUILDER] Society__KP_Defaults.INFORMAL.Relationship_Parameters.Duration_Weibull_Heterogeneity": 0.75,
+  "[BUILDER] Society__KP_Defaults.MARITAL.Pair_Formation_Parameters.Formation_Rate_Constant": 0.00014939179799188377,
+  "[BUILDER] Society__KP_Defaults.MARITAL.Relationship_Parameters.Condom_Usage_Probability.Max": 0.24776448087030317,
+  "[BUILDER] Society__KP_Defaults.MARITAL.Relationship_Parameters.Condom_Usage_Probability.Mid": 1999.0662345741973,
+  "[BUILDER] Society__KP_Defaults.MARITAL.Relationship_Parameters.Condom_Usage_Probability.Rate": 1.1477370467850123,
+  "[BUILDER] Society__KP_Defaults.TRANSITORY.Pair_Formation_Parameters.Formation_Rate_Constant": 0.0013999744751569578,
+  "[BUILDER] Society__KP_Defaults.TRANSITORY.Relationship_Parameters.Condom_Usage_Probability.Max": 0.29475917095678067,
+  "[BUILDER] Society__KP_Defaults.TRANSITORY.Relationship_Parameters.Condom_Usage_Probability.Mid": 2003.492577308467,
+  "[BUILDER] Society__KP_Defaults.TRANSITORY.Relationship_Parameters.Condom_Usage_Probability.Rate": 2.6344042117574866,
+  "[BUILDER] Society__KP_Defaults_All_Nodes.INFORMAL.Concurrency_Parameters.LOW.Max_Simultaneous_Relationships_Female": 1.1952166768842367,
+  "[BUILDER] Society__KP_Defaults_All_Nodes.INFORMAL.Concurrency_Parameters.LOW.Max_Simultaneous_Relationships_Male": 1.2142705823710533,
+  "[BUILDER] Society__KP_Defaults_All_Nodes.INFORMAL.Concurrency_Parameters.LOW.Prob_Extra_Relationship_Male": 0.2971378775047692,
+  "[BUILDER] Society__KP_Defaults_All_Nodes.INFORMAL.Concurrency_Parameters.MEDIUM.Max_Simultaneous_Relationships_Female": 2.7346807071124077,
+  "[BUILDER] Society__KP_Defaults_All_Nodes.INFORMAL.Concurrency_Parameters.MEDIUM.Max_Simultaneous_Relationships_Male": 2.698372633853165,
+  "[BUILDER] Society__KP_Defaults_All_Nodes.INFORMAL.Concurrency_Parameters.MEDIUM.Prob_Extra_Relationship_Female": 0.3934849539047048,
+  "[BUILDER] Society__KP_Defaults_All_Nodes.INFORMAL.Concurrency_Parameters.MEDIUM.Prob_Extra_Relationship_Male": 0.4088908126668874,
+  "[BUILDER] Society__KP_Defaults_All_Nodes.MARITAL.Concurrency_Parameters.MEDIUM.Max_Simultaneous_Relationships_Female": 1.8267298724703647,
+  "[BUILDER] Society__KP_Defaults_All_Nodes.MARITAL.Concurrency_Parameters.MEDIUM.Max_Simultaneous_Relationships_Male": 1.8141942935790416,
+  "[BUILDER] Society__KP_Defaults_All_Nodes.TRANSITORY.Concurrency_Parameters.LOW.Max_Simultaneous_Relationships_Female": 1.8283509829867153,
+  "[BUILDER] Society__KP_Defaults_All_Nodes.TRANSITORY.Concurrency_Parameters.LOW.Max_Simultaneous_Relationships_Male": 1.842413037192007,
+  "[BUILDER] Society__KP_Defaults_All_Nodes.TRANSITORY.Concurrency_Parameters.LOW.Prob_Extra_Relationship_Female": 0.05055949343848145,
+  "[BUILDER] Society__KP_Defaults_All_Nodes.TRANSITORY.Concurrency_Parameters.LOW.Prob_Extra_Relationship_Male": 0.17667641619359417,
+  "[BUILDER] Society__KP_Defaults_All_Nodes.TRANSITORY.Concurrency_Parameters.MEDIUM.Max_Simultaneous_Relationships_Female": 2.169815471935673,
+  "[BUILDER] Society__KP_Defaults_All_Nodes.TRANSITORY.Concurrency_Parameters.MEDIUM.Max_Simultaneous_Relationships_Male": 2.2471537782188586,
+  "[BUILDER] Society__KP_Defaults_All_Nodes.TRANSITORY.Concurrency_Parameters.MEDIUM.Prob_Extra_Relationship_Female": 0.3242373134255332,
+  "[BUILDER] Society__KP_Defaults_All_Nodes.TRANSITORY.Concurrency_Parameters.MEDIUM.Prob_Extra_Relationship_Male": 0.31746416978801095,
+  "[BUILDER] Society__KP_Eastern.INFORMAL.Relationship_Parameters.Condom_Usage_Probability.Max": 0.1819162623900686,
+  "[BUILDER] Society__KP_Eastern.TRANSITORY.Relationship_Parameters.Condom_Usage_Probability.Max": 0.5027391979012437,
+  "[BUILDER] Society__KP_Luapula.INFORMAL.Relationship_Parameters.Condom_Usage_Probability.Max": 0.526149818157069,
+  "[BUILDER] Society__KP_Luapula.TRANSITORY.Relationship_Parameters.Condom_Usage_Probability.Max": 0.6522600107007908,
+  "[BUILDER] Society__KP_Lusaka.INFORMAL.Relationship_Parameters.Condom_Usage_Probability.Max": 0.5316269474361998,
+  "[BUILDER] Society__KP_Lusaka.TRANSITORY.Relationship_Parameters.Condom_Usage_Probability.Max": 0.18766545533361847,
+  "[BUILDER] Society__KP_Muchinga.INFORMAL.Relationship_Parameters.Condom_Usage_Probability.Max": 0.19698572089977556,
+  "[BUILDER] Society__KP_Muchinga.TRANSITORY.Relationship_Parameters.Condom_Usage_Probability.Max": 0.4962312931956315,
+  "[BUILDER] Society__KP_Northern.INFORMAL.Relationship_Parameters.Condom_Usage_Probability.Max": 0.48960480470472956,
+  "[BUILDER] Society__KP_Northern.TRANSITORY.Relationship_Parameters.Condom_Usage_Probability.Max": 0.6045966692062374,
+  "[BUILDER] Society__KP_Northwestern.INFORMAL.Relationship_Parameters.Condom_Usage_Probability.Max": 0.4847194057742141,
+  "[BUILDER] Society__KP_Northwestern.TRANSITORY.Relationship_Parameters.Condom_Usage_Probability.Max": 0.6545832631617212,
+  "[BUILDER] Society__KP_Southern.INFORMAL.Relationship_Parameters.Condom_Usage_Probability.Max": 0.5309719729085793,
+  "[BUILDER] Society__KP_Southern.TRANSITORY.Relationship_Parameters.Condom_Usage_Probability.Max": 0.7379319972180419,
+  "[BUILDER] Society__KP_Western.INFORMAL.Relationship_Parameters.Condom_Usage_Probability.Max": 0.08233834496872618,
+  "[BUILDER] Society__KP_Western.TRANSITORY.Relationship_Parameters.Condom_Usage_Probability.Max": 0.6431305424223768,
+  "[BUILDER] Start_Year__KP_Seeding_Year": 1982,
+  "[BUILDER] Weighting_Matrix_RowMale_ColumnFemale__KP_RiskAssortivity": [
+    [
+      0.16484945037941373,
+      0.8351505496205862,
+      0
+    ],
+    [
+      0.8351505496205862,
+      0.16484945037941373,
+      0.16484945037941373
+    ],
+    [
+      0,
+      0.16484945037941373,
+      0.8351505496205862
+    ]
+  ],
+  "__sample_index__": 9,
+  "__site__": "SEARCH",
+  "exe_collection_id": "c3db1c1e-7313-e911-80ca-f0921c167866",
+  "input_collection_id": "b4a7acdc-7313-e911-80ca-f0921c167866",
+  "pyOptimTool": null
+}
+ 
+... and 28 more
+
+
+Calibration: Zambia--0.02--rep3--FS
+Calibration started: 2019-01-08 10:33:16
+Current iteration: Iteration 0
+Current Iteration Started: 2019-01-08 10:33:16
+Time since iteration started: 26.00 seconds
+Time since calibration started: 26.00 seconds
+
+Zambia--0.02--rep3--FS_iter0 ('b3a7acdc-7313-e911-80ca-f0921c167866') states:
+{'Created': 30}
+
+
+Calibration: Zambia--0.02--rep3--FS
+Calibration started: 2019-01-08 10:33:16
+Current iteration: Iteration 0
+Current Iteration Started: 2019-01-08 10:33:16
+Time since iteration started: 37.00 seconds
+Time since calibration started: 37.00 seconds
+
+Zambia--0.02--rep3--FS_iter0 ('b3a7acdc-7313-e911-80ca-f0921c167866') states:
+{'CommissionRequested': 30}
+
+
+Calibration: Zambia--0.02--rep3--FS
+Calibration started: 2019-01-08 10:33:16
+Current iteration: Iteration 0
+Current Iteration Started: 2019-01-08 10:33:16
+Time since iteration started: 49.00 seconds
+Time since calibration started: 49.00 seconds
+
+Zambia--0.02--rep3--FS_iter0 ('b3a7acdc-7313-e911-80ca-f0921c167866') states:
+{'CommissionRequested': 30}
+
+
+Calibration: Zambia--0.02--rep3--FS
+Calibration started: 2019-01-08 10:33:16
+Current iteration: Iteration 0
+Current Iteration Started: 2019-01-08 10:33:16
+Time since iteration started: 1 minute, 1.00 second
+Time since calibration started: 1 minute, 1.00 second
+
+Zambia--0.02--rep3--FS_iter0 ('b3a7acdc-7313-e911-80ca-f0921c167866') states:
+{'Running': 30}
+
+
+Calibration: Zambia--0.02--rep3--FS
+Calibration started: 2019-01-08 10:33:16
+Current iteration: Iteration 0
+Current Iteration Started: 2019-01-08 10:33:16
+Time since iteration started: 1 minute, 13.00 seconds
+Time since calibration started: 1 minute, 13.00 seconds
+
+Zambia--0.02--rep3--FS_iter0 ('b3a7acdc-7313-e911-80ca-f0921c167866') states:
+{'Running': 30}
+
+
+Calibration: Zambia--0.02--rep3--FS
+Calibration started: 2019-01-08 10:33:16
+Current iteration: Iteration 0
+Current Iteration Started: 2019-01-08 10:33:16
+Time since iteration started: 1 minute, 24.00 seconds
+Time since calibration started: 1 minute, 24.00 seconds
+
+Zambia--0.02--rep3--FS_iter0 ('b3a7acdc-7313-e911-80ca-f0921c167866') states:
+{'Running': 30}
+
+
+Calibration: Zambia--0.02--rep3--FS
+Calibration started: 2019-01-08 10:33:16
+Current iteration: Iteration 0
+Current Iteration Started: 2019-01-08 10:33:16
+Time since iteration started: 1 minute, 36.00 seconds
+Time since calibration started: 1 minute, 36.00 seconds
+
+Zambia--0.02--rep3--FS_iter0 ('b3a7acdc-7313-e911-80ca-f0921c167866') states:
+{'Running': 30}
+
+
+Calibration: Zambia--0.02--rep3--FS
+Calibration started: 2019-01-08 10:33:16
+Current iteration: Iteration 0
+Current Iteration Started: 2019-01-08 10:33:16
+Time since iteration started: 1 minute, 48.00 seconds
+Time since calibration started: 1 minute, 48.00 seconds
+
+Zambia--0.02--rep3--FS_iter0 ('b3a7acdc-7313-e911-80ca-f0921c167866') states:
+{'Running': 30}
+
+
+Calibration: Zambia--0.02--rep3--FS
+Calibration started: 2019-01-08 10:33:16
+Current iteration: Iteration 0
+Current Iteration Started: 2019-01-08 10:33:16
+Time since iteration started: 1 minute, 59.00 seconds
+Time since calibration started: 1 minute, 59.00 seconds
+
+Zambia--0.02--rep3--FS_iter0 ('b3a7acdc-7313-e911-80ca-f0921c167866') states:
+{'Running': 30}
+
+
+Calibration: Zambia--0.02--rep3--FS
+Calibration started: 2019-01-08 10:33:16
+Current iteration: Iteration 0
+Current Iteration Started: 2019-01-08 10:33:16
+Time since iteration started: 2 minutes, 11.00 seconds
+Time since calibration started: 2 minutes, 11.00 seconds
+
+Zambia--0.02--rep3--FS_iter0 ('b3a7acdc-7313-e911-80ca-f0921c167866') states:
+{'Running': 30}
+
+
+Calibration: Zambia--0.02--rep3--FS
+Calibration started: 2019-01-08 10:33:16
+Current iteration: Iteration 0
+Current Iteration Started: 2019-01-08 10:33:16
+Time since iteration started: 2 minutes, 22.00 seconds
+Time since calibration started: 2 minutes, 22.00 seconds
+
+Zambia--0.02--rep3--FS_iter0 ('b3a7acdc-7313-e911-80ca-f0921c167866') states:
+{'Running': 30}
+
+
+Calibration: Zambia--0.02--rep3--FS
+Calibration started: 2019-01-08 10:33:16
+Current iteration: Iteration 0
+Current Iteration Started: 2019-01-08 10:33:16
+Time since iteration started: 2 minutes, 34.00 seconds
+Time since calibration started: 2 minutes, 34.00 seconds
+
+Zambia--0.02--rep3--FS_iter0 ('b3a7acdc-7313-e911-80ca-f0921c167866') states:
+{'Running': 30}
+
+
+Calibration: Zambia--0.02--rep3--FS
+Calibration started: 2019-01-08 10:33:16
+Current iteration: Iteration 0
+Current Iteration Started: 2019-01-08 10:33:16
+Time since iteration started: 2 minutes, 45.00 seconds
+Time since calibration started: 2 minutes, 45.00 seconds
+
+Zambia--0.02--rep3--FS_iter0 ('b3a7acdc-7313-e911-80ca-f0921c167866') states:
+{'Running': 30}
+
+
+Calibration: Zambia--0.02--rep3--FS
+Calibration started: 2019-01-08 10:33:16
+Current iteration: Iteration 0
+Current Iteration Started: 2019-01-08 10:33:16
+Time since iteration started: 2 minutes, 57.00 seconds
+Time since calibration started: 2 minutes, 57.00 seconds
+
+Zambia--0.02--rep3--FS_iter0 ('b3a7acdc-7313-e911-80ca-f0921c167866') states:
+{'Running': 30}
+
+
+Calibration: Zambia--0.02--rep3--FS
+Calibration started: 2019-01-08 10:33:16
+Current iteration: Iteration 0
+Current Iteration Started: 2019-01-08 10:33:16
+Time since iteration started: 3 minutes, 9.00 seconds
+Time since calibration started: 3 minutes, 9.00 seconds
+
+Zambia--0.02--rep3--FS_iter0 ('b3a7acdc-7313-e911-80ca-f0921c167866') states:
+{'Running': 30}
+
+
+Calibration: Zambia--0.02--rep3--FS
+Calibration started: 2019-01-08 10:33:16
+Current iteration: Iteration 0
+Current Iteration Started: 2019-01-08 10:33:16
+Time since iteration started: 3 minutes, 21.00 seconds
+Time since calibration started: 3 minutes, 21.00 seconds
+
+Zambia--0.02--rep3--FS_iter0 ('b3a7acdc-7313-e911-80ca-f0921c167866') states:
+{'Running': 30}
+
+
+Calibration: Zambia--0.02--rep3--FS
+Calibration started: 2019-01-08 10:33:16
+Current iteration: Iteration 0
+Current Iteration Started: 2019-01-08 10:33:16
+Time since iteration started: 3 minutes, 32.00 seconds
+Time since calibration started: 3 minutes, 32.00 seconds
+
+Zambia--0.02--rep3--FS_iter0 ('b3a7acdc-7313-e911-80ca-f0921c167866') states:
+{'Running': 30}
+
+
+Calibration: Zambia--0.02--rep3--FS
+Calibration started: 2019-01-08 10:33:16
+Current iteration: Iteration 0
+Current Iteration Started: 2019-01-08 10:33:16
+Time since iteration started: 3 minutes, 44.00 seconds
+Time since calibration started: 3 minutes, 44.00 seconds
+
+Zambia--0.02--rep3--FS_iter0 ('b3a7acdc-7313-e911-80ca-f0921c167866') states:
+{'Running': 30}
+
+
+Calibration: Zambia--0.02--rep3--FS
+Calibration started: 2019-01-08 10:33:16
+Current iteration: Iteration 0
+Current Iteration Started: 2019-01-08 10:33:16
+Time since iteration started: 3 minutes, 55.00 seconds
+Time since calibration started: 3 minutes, 55.00 seconds
+
+Zambia--0.02--rep3--FS_iter0 ('b3a7acdc-7313-e911-80ca-f0921c167866') states:
+{'Running': 30}
+
+
+Calibration: Zambia--0.02--rep3--FS
+Calibration started: 2019-01-08 10:33:16
+Current iteration: Iteration 0
+Current Iteration Started: 2019-01-08 10:33:16
+Time since iteration started: 4 minutes, 7.00 seconds
+Time since calibration started: 4 minutes, 7.00 seconds
+
+Zambia--0.02--rep3--FS_iter0 ('b3a7acdc-7313-e911-80ca-f0921c167866') states:
+{'Running': 30}
+
+
+Calibration: Zambia--0.02--rep3--FS
+Calibration started: 2019-01-08 10:33:16
+Current iteration: Iteration 0
+Current Iteration Started: 2019-01-08 10:33:16
+Time since iteration started: 4 minutes, 19.00 seconds
+Time since calibration started: 4 minutes, 19.00 seconds
+
+Zambia--0.02--rep3--FS_iter0 ('b3a7acdc-7313-e911-80ca-f0921c167866') states:
+{'Running': 30}
+
+
+Calibration: Zambia--0.02--rep3--FS
+Calibration started: 2019-01-08 10:33:16
+Current iteration: Iteration 0
+Current Iteration Started: 2019-01-08 10:33:16
+Time since iteration started: 4 minutes, 30.00 seconds
+Time since calibration started: 4 minutes, 30.00 seconds
+
+Zambia--0.02--rep3--FS_iter0 ('b3a7acdc-7313-e911-80ca-f0921c167866') states:
+{'Running': 30}
+
+
+Calibration: Zambia--0.02--rep3--FS
+Calibration started: 2019-01-08 10:33:16
+Current iteration: Iteration 0
+Current Iteration Started: 2019-01-08 10:33:16
+Time since iteration started: 4 minutes, 42.00 seconds
+Time since calibration started: 4 minutes, 42.00 seconds
+
+Zambia--0.02--rep3--FS_iter0 ('b3a7acdc-7313-e911-80ca-f0921c167866') states:
+{'Running': 30}
+
+
+Calibration: Zambia--0.02--rep3--FS
+Calibration started: 2019-01-08 10:33:16
+Current iteration: Iteration 0
+Current Iteration Started: 2019-01-08 10:33:16
+Time since iteration started: 4 minutes, 54.00 seconds
+Time since calibration started: 4 minutes, 54.00 seconds
+
+Zambia--0.02--rep3--FS_iter0 ('b3a7acdc-7313-e911-80ca-f0921c167866') states:
+{'Running': 30}
+
+
+Calibration: Zambia--0.02--rep3--FS
+Calibration started: 2019-01-08 10:33:16
+Current iteration: Iteration 0
+Current Iteration Started: 2019-01-08 10:33:16
+Time since iteration started: 5 minutes, 5.00 seconds
+Time since calibration started: 5 minutes, 5.00 seconds
+
+Zambia--0.02--rep3--FS_iter0 ('b3a7acdc-7313-e911-80ca-f0921c167866') states:
+{'Running': 30}
+
+
+Calibration: Zambia--0.02--rep3--FS
+Calibration started: 2019-01-08 10:33:16
+Current iteration: Iteration 0
+Current Iteration Started: 2019-01-08 10:33:16
+Time since iteration started: 5 minutes, 17.00 seconds
+Time since calibration started: 5 minutes, 17.00 seconds
+
+Zambia--0.02--rep3--FS_iter0 ('b3a7acdc-7313-e911-80ca-f0921c167866') states:
+{'Running': 30}
+
+
+Calibration: Zambia--0.02--rep3--FS
+Calibration started: 2019-01-08 10:33:16
+Current iteration: Iteration 0
+Current Iteration Started: 2019-01-08 10:33:16
+Time since iteration started: 5 minutes, 29.00 seconds
+Time since calibration started: 5 minutes, 29.00 seconds
+
+Zambia--0.02--rep3--FS_iter0 ('b3a7acdc-7313-e911-80ca-f0921c167866') states:
+{'Running': 30}
+
+
+Calibration: Zambia--0.02--rep3--FS
+Calibration started: 2019-01-08 10:33:16
+Current iteration: Iteration 0
+Current Iteration Started: 2019-01-08 10:33:16
+Time since iteration started: 5 minutes, 40.00 seconds
+Time since calibration started: 5 minutes, 40.00 seconds
+
+Zambia--0.02--rep3--FS_iter0 ('b3a7acdc-7313-e911-80ca-f0921c167866') states:
+{'Running': 30}
+
+
+Calibration: Zambia--0.02--rep3--FS
+Calibration started: 2019-01-08 10:33:16
+Current iteration: Iteration 0
+Current Iteration Started: 2019-01-08 10:33:16
+Time since iteration started: 5 minutes, 52.00 seconds
+Time since calibration started: 5 minutes, 52.00 seconds
+
+Zambia--0.02--rep3--FS_iter0 ('b3a7acdc-7313-e911-80ca-f0921c167866') states:
+{'Running': 30}
+
+
+Calibration: Zambia--0.02--rep3--FS
+Calibration started: 2019-01-08 10:33:16
+Current iteration: Iteration 0
+Current Iteration Started: 2019-01-08 10:33:16
+Time since iteration started: 6 minutes, 3.00 seconds
+Time since calibration started: 6 minutes, 3.00 seconds
+
+Zambia--0.02--rep3--FS_iter0 ('b3a7acdc-7313-e911-80ca-f0921c167866') states:
+{'Running': 30}
+
+
+Calibration: Zambia--0.02--rep3--FS
+Calibration started: 2019-01-08 10:33:16
+Current iteration: Iteration 0
+Current Iteration Started: 2019-01-08 10:33:16
+Time since iteration started: 6 minutes, 15.00 seconds
+Time since calibration started: 6 minutes, 15.00 seconds
+
+Zambia--0.02--rep3--FS_iter0 ('b3a7acdc-7313-e911-80ca-f0921c167866') states:
+{'Running': 30}
+
+
+Calibration: Zambia--0.02--rep3--FS
+Calibration started: 2019-01-08 10:33:16
+Current iteration: Iteration 0
+Current Iteration Started: 2019-01-08 10:33:16
+Time since iteration started: 6 minutes, 27.00 seconds
+Time since calibration started: 6 minutes, 27.00 seconds
+
+Zambia--0.02--rep3--FS_iter0 ('b3a7acdc-7313-e911-80ca-f0921c167866') states:
+{'Running': 30}
+
+
+Calibration: Zambia--0.02--rep3--FS
+Calibration started: 2019-01-08 10:33:16
+Current iteration: Iteration 0
+Current Iteration Started: 2019-01-08 10:33:16
+Time since iteration started: 6 minutes, 39.00 seconds
+Time since calibration started: 6 minutes, 39.00 seconds
+
+Zambia--0.02--rep3--FS_iter0 ('b3a7acdc-7313-e911-80ca-f0921c167866') states:
+{'Running': 30}
+
+
+Calibration: Zambia--0.02--rep3--FS
+Calibration started: 2019-01-08 10:33:16
+Current iteration: Iteration 0
+Current Iteration Started: 2019-01-08 10:33:16
+Time since iteration started: 6 minutes, 50.00 seconds
+Time since calibration started: 6 minutes, 50.00 seconds
+
+Zambia--0.02--rep3--FS_iter0 ('b3a7acdc-7313-e911-80ca-f0921c167866') states:
+{'Running': 30}
+
+
+Calibration: Zambia--0.02--rep3--FS
+Calibration started: 2019-01-08 10:33:16
+Current iteration: Iteration 0
+Current Iteration Started: 2019-01-08 10:33:16
+Time since iteration started: 7 minutes, 2.00 seconds
+Time since calibration started: 7 minutes, 2.00 seconds
+
+Zambia--0.02--rep3--FS_iter0 ('b3a7acdc-7313-e911-80ca-f0921c167866') states:
+{'Running': 30}
+
+
+Calibration: Zambia--0.02--rep3--FS
+Calibration started: 2019-01-08 10:33:16
+Current iteration: Iteration 0
+Current Iteration Started: 2019-01-08 10:33:16
+Time since iteration started: 7 minutes, 14.00 seconds
+Time since calibration started: 7 minutes, 14.00 seconds
+
+Zambia--0.02--rep3--FS_iter0 ('b3a7acdc-7313-e911-80ca-f0921c167866') states:
+{'Running': 30}
+
+
+Calibration: Zambia--0.02--rep3--FS
+Calibration started: 2019-01-08 10:33:16
+Current iteration: Iteration 0
+Current Iteration Started: 2019-01-08 10:33:16
+Time since iteration started: 7 minutes, 25.00 seconds
+Time since calibration started: 7 minutes, 25.00 seconds
+
+Zambia--0.02--rep3--FS_iter0 ('b3a7acdc-7313-e911-80ca-f0921c167866') states:
+{'Running': 30}
+
+
+Calibration: Zambia--0.02--rep3--FS
+Calibration started: 2019-01-08 10:33:16
+Current iteration: Iteration 0
+Current Iteration Started: 2019-01-08 10:33:16
+Time since iteration started: 7 minutes, 37.00 seconds
+Time since calibration started: 7 minutes, 37.00 seconds
+
+Zambia--0.02--rep3--FS_iter0 ('b3a7acdc-7313-e911-80ca-f0921c167866') states:
+{'Running': 30}
+
+
+Calibration: Zambia--0.02--rep3--FS
+Calibration started: 2019-01-08 10:33:16
+Current iteration: Iteration 0
+Current Iteration Started: 2019-01-08 10:33:16
+Time since iteration started: 7 minutes, 48.00 seconds
+Time since calibration started: 7 minutes, 48.00 seconds
+
+Zambia--0.02--rep3--FS_iter0 ('b3a7acdc-7313-e911-80ca-f0921c167866') states:
+{'Running': 30}
+
+
+Calibration: Zambia--0.02--rep3--FS
+Calibration started: 2019-01-08 10:33:16
+Current iteration: Iteration 0
+Current Iteration Started: 2019-01-08 10:33:16
+Time since iteration started: 8 minutes
+Time since calibration started: 8 minutes
+
+Zambia--0.02--rep3--FS_iter0 ('b3a7acdc-7313-e911-80ca-f0921c167866') states:
+{'Running': 30}
+
+
+Calibration: Zambia--0.02--rep3--FS
+Calibration started: 2019-01-08 10:33:16
+Current iteration: Iteration 0
+Current Iteration Started: 2019-01-08 10:33:16
+Time since iteration started: 8 minutes, 12.00 seconds
+Time since calibration started: 8 minutes, 12.00 seconds
+
+Zambia--0.02--rep3--FS_iter0 ('b3a7acdc-7313-e911-80ca-f0921c167866') states:
+{'Running': 30}
+
+
+Calibration: Zambia--0.02--rep3--FS
+Calibration started: 2019-01-08 10:33:16
+Current iteration: Iteration 0
+Current Iteration Started: 2019-01-08 10:33:16
+Time since iteration started: 8 minutes, 24.00 seconds
+Time since calibration started: 8 minutes, 24.00 seconds
+
+Zambia--0.02--rep3--FS_iter0 ('b3a7acdc-7313-e911-80ca-f0921c167866') states:
+{'Running': 30}
+
+
+Calibration: Zambia--0.02--rep3--FS
+Calibration started: 2019-01-08 10:33:16
+Current iteration: Iteration 0
+Current Iteration Started: 2019-01-08 10:33:16
+Time since iteration started: 8 minutes, 35.00 seconds
+Time since calibration started: 8 minutes, 35.00 seconds
+
+Zambia--0.02--rep3--FS_iter0 ('b3a7acdc-7313-e911-80ca-f0921c167866') states:
+{'Running': 30}
+
+
+Calibration: Zambia--0.02--rep3--FS
+Calibration started: 2019-01-08 10:33:16
+Current iteration: Iteration 0
+Current Iteration Started: 2019-01-08 10:33:16
+Time since iteration started: 8 minutes, 47.00 seconds
+Time since calibration started: 8 minutes, 47.00 seconds
+
+Zambia--0.02--rep3--FS_iter0 ('b3a7acdc-7313-e911-80ca-f0921c167866') states:
+{'Running': 30}
+
+
+Calibration: Zambia--0.02--rep3--FS
+Calibration started: 2019-01-08 10:33:16
+Current iteration: Iteration 0
+Current Iteration Started: 2019-01-08 10:33:16
+Time since iteration started: 8 minutes, 58.00 seconds
+Time since calibration started: 8 minutes, 58.00 seconds
+
+Zambia--0.02--rep3--FS_iter0 ('b3a7acdc-7313-e911-80ca-f0921c167866') states:
+{'Running': 30}
+
+
+Calibration: Zambia--0.02--rep3--FS
+Calibration started: 2019-01-08 10:33:16
+Current iteration: Iteration 0
+Current Iteration Started: 2019-01-08 10:33:16
+Time since iteration started: 9 minutes, 10.00 seconds
+Time since calibration started: 9 minutes, 10.00 seconds
+
+Zambia--0.02--rep3--FS_iter0 ('b3a7acdc-7313-e911-80ca-f0921c167866') states:
+{'Running': 30}
+
+
+Calibration: Zambia--0.02--rep3--FS
+Calibration started: 2019-01-08 10:33:16
+Current iteration: Iteration 0
+Current Iteration Started: 2019-01-08 10:33:16
+Time since iteration started: 9 minutes, 22.00 seconds
+Time since calibration started: 9 minutes, 22.00 seconds
+
+Zambia--0.02--rep3--FS_iter0 ('b3a7acdc-7313-e911-80ca-f0921c167866') states:
+{'Running': 30}
+
+
+Calibration: Zambia--0.02--rep3--FS
+Calibration started: 2019-01-08 10:33:16
+Current iteration: Iteration 0
+Current Iteration Started: 2019-01-08 10:33:16
+Time since iteration started: 9 minutes, 33.00 seconds
+Time since calibration started: 9 minutes, 33.00 seconds
+
+Zambia--0.02--rep3--FS_iter0 ('b3a7acdc-7313-e911-80ca-f0921c167866') states:
+{'Running': 30}
+
+
+Calibration: Zambia--0.02--rep3--FS
+Calibration started: 2019-01-08 10:33:16
+Current iteration: Iteration 0
+Current Iteration Started: 2019-01-08 10:33:16
+Time since iteration started: 9 minutes, 45.00 seconds
+Time since calibration started: 9 minutes, 45.00 seconds
+
+Zambia--0.02--rep3--FS_iter0 ('b3a7acdc-7313-e911-80ca-f0921c167866') states:
+{'Running': 30}
+
+
+Calibration: Zambia--0.02--rep3--FS
+Calibration started: 2019-01-08 10:33:16
+Current iteration: Iteration 0
+Current Iteration Started: 2019-01-08 10:33:16
+Time since iteration started: 9 minutes, 56.00 seconds
+Time since calibration started: 9 minutes, 56.00 seconds
+
+Zambia--0.02--rep3--FS_iter0 ('b3a7acdc-7313-e911-80ca-f0921c167866') states:
+{'Running': 30}
+
+
+Calibration: Zambia--0.02--rep3--FS
+Calibration started: 2019-01-08 10:33:16
+Current iteration: Iteration 0
+Current Iteration Started: 2019-01-08 10:33:16
+Time since iteration started: 10 minutes, 9.00 seconds
+Time since calibration started: 10 minutes, 9.00 seconds
+
+Zambia--0.02--rep3--FS_iter0 ('b3a7acdc-7313-e911-80ca-f0921c167866') states:
+{'Running': 30}
+
+
+Calibration: Zambia--0.02--rep3--FS
+Calibration started: 2019-01-08 10:33:16
+Current iteration: Iteration 0
+Current Iteration Started: 2019-01-08 10:33:16
+Time since iteration started: 10 minutes, 21.00 seconds
+Time since calibration started: 10 minutes, 21.00 seconds
+
+Zambia--0.02--rep3--FS_iter0 ('b3a7acdc-7313-e911-80ca-f0921c167866') states:
+{'Running': 30}
+
+
+Calibration: Zambia--0.02--rep3--FS
+Calibration started: 2019-01-08 10:33:16
+Current iteration: Iteration 0
+Current Iteration Started: 2019-01-08 10:33:16
+Time since iteration started: 10 minutes, 32.00 seconds
+Time since calibration started: 10 minutes, 32.00 seconds
+
+Zambia--0.02--rep3--FS_iter0 ('b3a7acdc-7313-e911-80ca-f0921c167866') states:
+{'Running': 30}
+
+
+Calibration: Zambia--0.02--rep3--FS
+Calibration started: 2019-01-08 10:33:16
+Current iteration: Iteration 0
+Current Iteration Started: 2019-01-08 10:33:16
+Time since iteration started: 10 minutes, 44.00 seconds
+Time since calibration started: 10 minutes, 44.00 seconds
+
+Zambia--0.02--rep3--FS_iter0 ('b3a7acdc-7313-e911-80ca-f0921c167866') states:
+{'Running': 30}
+
+
+Calibration: Zambia--0.02--rep3--FS
+Calibration started: 2019-01-08 10:33:16
+Current iteration: Iteration 0
+Current Iteration Started: 2019-01-08 10:33:16
+Time since iteration started: 10 minutes, 55.00 seconds
+Time since calibration started: 10 minutes, 55.00 seconds
+
+Zambia--0.02--rep3--FS_iter0 ('b3a7acdc-7313-e911-80ca-f0921c167866') states:
+{'Running': 30}
+
+
+Calibration: Zambia--0.02--rep3--FS
+Calibration started: 2019-01-08 10:33:16
+Current iteration: Iteration 0
+Current Iteration Started: 2019-01-08 10:33:16
+Time since iteration started: 11 minutes, 7.00 seconds
+Time since calibration started: 11 minutes, 7.00 seconds
+
+Zambia--0.02--rep3--FS_iter0 ('b3a7acdc-7313-e911-80ca-f0921c167866') states:
+{'Running': 30}
+
+
+Calibration: Zambia--0.02--rep3--FS
+Calibration started: 2019-01-08 10:33:16
+Current iteration: Iteration 0
+Current Iteration Started: 2019-01-08 10:33:16
+Time since iteration started: 11 minutes, 19.00 seconds
+Time since calibration started: 11 minutes, 19.00 seconds
+
+Zambia--0.02--rep3--FS_iter0 ('b3a7acdc-7313-e911-80ca-f0921c167866') states:
+{'Running': 30}
+
+
+Calibration: Zambia--0.02--rep3--FS
+Calibration started: 2019-01-08 10:33:16
+Current iteration: Iteration 0
+Current Iteration Started: 2019-01-08 10:33:16
+Time since iteration started: 11 minutes, 30.00 seconds
+Time since calibration started: 11 minutes, 30.00 seconds
+
+Zambia--0.02--rep3--FS_iter0 ('b3a7acdc-7313-e911-80ca-f0921c167866') states:
+{'Running': 30}
+
+
+Calibration: Zambia--0.02--rep3--FS
+Calibration started: 2019-01-08 10:33:16
+Current iteration: Iteration 0
+Current Iteration Started: 2019-01-08 10:33:16
+Time since iteration started: 11 minutes, 42.00 seconds
+Time since calibration started: 11 minutes, 42.00 seconds
+
+Zambia--0.02--rep3--FS_iter0 ('b3a7acdc-7313-e911-80ca-f0921c167866') states:
+{'Running': 30}
+
+
+Calibration: Zambia--0.02--rep3--FS
+Calibration started: 2019-01-08 10:33:16
+Current iteration: Iteration 0
+Current Iteration Started: 2019-01-08 10:33:16
+Time since iteration started: 11 minutes, 55.00 seconds
+Time since calibration started: 11 minutes, 55.00 seconds
+
+Zambia--0.02--rep3--FS_iter0 ('b3a7acdc-7313-e911-80ca-f0921c167866') states:
+{'Running': 30}
+
+
+Calibration: Zambia--0.02--rep3--FS
+Calibration started: 2019-01-08 10:33:16
+Current iteration: Iteration 0
+Current Iteration Started: 2019-01-08 10:33:16
+Time since iteration started: 12 minutes, 7.00 seconds
+Time since calibration started: 12 minutes, 7.00 seconds
+
+Zambia--0.02--rep3--FS_iter0 ('b3a7acdc-7313-e911-80ca-f0921c167866') states:
+{'Running': 30}
+
+
+Calibration: Zambia--0.02--rep3--FS
+Calibration started: 2019-01-08 10:33:16
+Current iteration: Iteration 0
+Current Iteration Started: 2019-01-08 10:33:16
+Time since iteration started: 12 minutes, 18.00 seconds
+Time since calibration started: 12 minutes, 18.00 seconds
+
+Zambia--0.02--rep3--FS_iter0 ('b3a7acdc-7313-e911-80ca-f0921c167866') states:
+{'Running': 30}
+
+
+Calibration: Zambia--0.02--rep3--FS
+Calibration started: 2019-01-08 10:33:16
+Current iteration: Iteration 0
+Current Iteration Started: 2019-01-08 10:33:16
+Time since iteration started: 12 minutes, 30.00 seconds
+Time since calibration started: 12 minutes, 30.00 seconds
+
+Zambia--0.02--rep3--FS_iter0 ('b3a7acdc-7313-e911-80ca-f0921c167866') states:
+{'Running': 30}
+
+
+Calibration: Zambia--0.02--rep3--FS
+Calibration started: 2019-01-08 10:33:16
+Current iteration: Iteration 0
+Current Iteration Started: 2019-01-08 10:33:16
+Time since iteration started: 12 minutes, 42.00 seconds
+Time since calibration started: 12 minutes, 42.00 seconds
+
+Zambia--0.02--rep3--FS_iter0 ('b3a7acdc-7313-e911-80ca-f0921c167866') states:
+{'Running': 30}
+
+
+Calibration: Zambia--0.02--rep3--FS
+Calibration started: 2019-01-08 10:33:16
+Current iteration: Iteration 0
+Current Iteration Started: 2019-01-08 10:33:16
+Time since iteration started: 12 minutes, 53.00 seconds
+Time since calibration started: 12 minutes, 53.00 seconds
+
+Zambia--0.02--rep3--FS_iter0 ('b3a7acdc-7313-e911-80ca-f0921c167866') states:
+{'Running': 30}
+
+
+Calibration: Zambia--0.02--rep3--FS
+Calibration started: 2019-01-08 10:33:16
+Current iteration: Iteration 0
+Current Iteration Started: 2019-01-08 10:33:16
+Time since iteration started: 13 minutes, 5.00 seconds
+Time since calibration started: 13 minutes, 5.00 seconds
+
+Zambia--0.02--rep3--FS_iter0 ('b3a7acdc-7313-e911-80ca-f0921c167866') states:
+{'Running': 30}
+
+
+Calibration: Zambia--0.02--rep3--FS
+Calibration started: 2019-01-08 10:33:16
+Current iteration: Iteration 0
+Current Iteration Started: 2019-01-08 10:33:16
+Time since iteration started: 13 minutes, 16.00 seconds
+Time since calibration started: 13 minutes, 16.00 seconds
+
+Zambia--0.02--rep3--FS_iter0 ('b3a7acdc-7313-e911-80ca-f0921c167866') states:
+{'Running': 30}
+
+
+Calibration: Zambia--0.02--rep3--FS
+Calibration started: 2019-01-08 10:33:16
+Current iteration: Iteration 0
+Current Iteration Started: 2019-01-08 10:33:16
+Time since iteration started: 13 minutes, 28.00 seconds
+Time since calibration started: 13 minutes, 28.00 seconds
+
+Zambia--0.02--rep3--FS_iter0 ('b3a7acdc-7313-e911-80ca-f0921c167866') states:
+{'Running': 30}
+
+
+Calibration: Zambia--0.02--rep3--FS
+Calibration started: 2019-01-08 10:33:16
+Current iteration: Iteration 0
+Current Iteration Started: 2019-01-08 10:33:16
+Time since iteration started: 13 minutes, 41.00 seconds
+Time since calibration started: 13 minutes, 41.00 seconds
+
+Zambia--0.02--rep3--FS_iter0 ('b3a7acdc-7313-e911-80ca-f0921c167866') states:
+{'Running': 30}
+
+
+Calibration: Zambia--0.02--rep3--FS
+Calibration started: 2019-01-08 10:33:16
+Current iteration: Iteration 0
+Current Iteration Started: 2019-01-08 10:33:16
+Time since iteration started: 13 minutes, 53.00 seconds
+Time since calibration started: 13 minutes, 53.00 seconds
+
+Zambia--0.02--rep3--FS_iter0 ('b3a7acdc-7313-e911-80ca-f0921c167866') states:
+{'Running': 30}
+
+
+Calibration: Zambia--0.02--rep3--FS
+Calibration started: 2019-01-08 10:33:16
+Current iteration: Iteration 0
+Current Iteration Started: 2019-01-08 10:33:16
+Time since iteration started: 14 minutes, 4.00 seconds
+Time since calibration started: 14 minutes, 4.00 seconds
+
+Zambia--0.02--rep3--FS_iter0 ('b3a7acdc-7313-e911-80ca-f0921c167866') states:
+{'Running': 30}
+
+
+Calibration: Zambia--0.02--rep3--FS
+Calibration started: 2019-01-08 10:33:16
+Current iteration: Iteration 0
+Current Iteration Started: 2019-01-08 10:33:16
+Time since iteration started: 14 minutes, 16.00 seconds
+Time since calibration started: 14 minutes, 16.00 seconds
+
+Zambia--0.02--rep3--FS_iter0 ('b3a7acdc-7313-e911-80ca-f0921c167866') states:
+{'Running': 30}
+
+
+Calibration: Zambia--0.02--rep3--FS
+Calibration started: 2019-01-08 10:33:16
+Current iteration: Iteration 0
+Current Iteration Started: 2019-01-08 10:33:16
+Time since iteration started: 14 minutes, 27.00 seconds
+Time since calibration started: 14 minutes, 27.00 seconds
+
+Zambia--0.02--rep3--FS_iter0 ('b3a7acdc-7313-e911-80ca-f0921c167866') states:
+{'Running': 30}
+
+
+Calibration: Zambia--0.02--rep3--FS
+Calibration started: 2019-01-08 10:33:16
+Current iteration: Iteration 0
+Current Iteration Started: 2019-01-08 10:33:16
+Time since iteration started: 14 minutes, 39.00 seconds
+Time since calibration started: 14 minutes, 39.00 seconds
+
+Zambia--0.02--rep3--FS_iter0 ('b3a7acdc-7313-e911-80ca-f0921c167866') states:
+{'Running': 30}
+
+
+Calibration: Zambia--0.02--rep3--FS
+Calibration started: 2019-01-08 10:33:16
+Current iteration: Iteration 0
+Current Iteration Started: 2019-01-08 10:33:16
+Time since iteration started: 14 minutes, 51.00 seconds
+Time since calibration started: 14 minutes, 51.00 seconds
+
+Zambia--0.02--rep3--FS_iter0 ('b3a7acdc-7313-e911-80ca-f0921c167866') states:
+{'Running': 30}
+
+
+Calibration: Zambia--0.02--rep3--FS
+Calibration started: 2019-01-08 10:33:16
+Current iteration: Iteration 0
+Current Iteration Started: 2019-01-08 10:33:16
+Time since iteration started: 15 minutes, 2.00 seconds
+Time since calibration started: 15 minutes, 2.00 seconds
+
+Zambia--0.02--rep3--FS_iter0 ('b3a7acdc-7313-e911-80ca-f0921c167866') states:
+{'Running': 30}
+
+
+Calibration: Zambia--0.02--rep3--FS
+Calibration started: 2019-01-08 10:33:16
+Current iteration: Iteration 0
+Current Iteration Started: 2019-01-08 10:33:16
+Time since iteration started: 15 minutes, 14.00 seconds
+Time since calibration started: 15 minutes, 14.00 seconds
+
+Zambia--0.02--rep3--FS_iter0 ('b3a7acdc-7313-e911-80ca-f0921c167866') states:
+{'Running': 30}
+
+
+Calibration: Zambia--0.02--rep3--FS
+Calibration started: 2019-01-08 10:33:16
+Current iteration: Iteration 0
+Current Iteration Started: 2019-01-08 10:33:16
+Time since iteration started: 15 minutes, 26.00 seconds
+Time since calibration started: 15 minutes, 26.00 seconds
+
+Zambia--0.02--rep3--FS_iter0 ('b3a7acdc-7313-e911-80ca-f0921c167866') states:
+{'Running': 30}
+
+
+Calibration: Zambia--0.02--rep3--FS
+Calibration started: 2019-01-08 10:33:16
+Current iteration: Iteration 0
+Current Iteration Started: 2019-01-08 10:33:16
+Time since iteration started: 15 minutes, 37.00 seconds
+Time since calibration started: 15 minutes, 37.00 seconds
+
+Zambia--0.02--rep3--FS_iter0 ('b3a7acdc-7313-e911-80ca-f0921c167866') states:
+{'Running': 30}
+
+
+Calibration: Zambia--0.02--rep3--FS
+Calibration started: 2019-01-08 10:33:16
+Current iteration: Iteration 0
+Current Iteration Started: 2019-01-08 10:33:16
+Time since iteration started: 15 minutes, 49.00 seconds
+Time since calibration started: 15 minutes, 49.00 seconds
+
+Zambia--0.02--rep3--FS_iter0 ('b3a7acdc-7313-e911-80ca-f0921c167866') states:
+{'Running': 30}
+
+
+Calibration: Zambia--0.02--rep3--FS
+Calibration started: 2019-01-08 10:33:16
+Current iteration: Iteration 0
+Current Iteration Started: 2019-01-08 10:33:16
+Time since iteration started: 16 minutes, 1.00 second
+Time since calibration started: 16 minutes, 1.00 second
+
+Zambia--0.02--rep3--FS_iter0 ('b3a7acdc-7313-e911-80ca-f0921c167866') states:
+{'Running': 30}
+
+
+Calibration: Zambia--0.02--rep3--FS
+Calibration started: 2019-01-08 10:33:16
+Current iteration: Iteration 0
+Current Iteration Started: 2019-01-08 10:33:16
+Time since iteration started: 16 minutes, 12.00 seconds
+Time since calibration started: 16 minutes, 12.00 seconds
+
+Zambia--0.02--rep3--FS_iter0 ('b3a7acdc-7313-e911-80ca-f0921c167866') states:
+{'Running': 30}
+
+
+Calibration: Zambia--0.02--rep3--FS
+Calibration started: 2019-01-08 10:33:16
+Current iteration: Iteration 0
+Current Iteration Started: 2019-01-08 10:33:16
+Time since iteration started: 16 minutes, 24.00 seconds
+Time since calibration started: 16 minutes, 24.00 seconds
+
+Zambia--0.02--rep3--FS_iter0 ('b3a7acdc-7313-e911-80ca-f0921c167866') states:
+{'Running': 30}
+
+
+Calibration: Zambia--0.02--rep3--FS
+Calibration started: 2019-01-08 10:33:16
+Current iteration: Iteration 0
+Current Iteration Started: 2019-01-08 10:33:16
+Time since iteration started: 16 minutes, 35.00 seconds
+Time since calibration started: 16 minutes, 35.00 seconds
+
+Zambia--0.02--rep3--FS_iter0 ('b3a7acdc-7313-e911-80ca-f0921c167866') states:
+{'Running': 30}
+
+
+Calibration: Zambia--0.02--rep3--FS
+Calibration started: 2019-01-08 10:33:16
+Current iteration: Iteration 0
+Current Iteration Started: 2019-01-08 10:33:16
+Time since iteration started: 16 minutes, 47.00 seconds
+Time since calibration started: 16 minutes, 47.00 seconds
+
+Zambia--0.02--rep3--FS_iter0 ('b3a7acdc-7313-e911-80ca-f0921c167866') states:
+{'Running': 30}
+
+
+Calibration: Zambia--0.02--rep3--FS
+Calibration started: 2019-01-08 10:33:16
+Current iteration: Iteration 0
+Current Iteration Started: 2019-01-08 10:33:16
+Time since iteration started: 16 minutes, 59.00 seconds
+Time since calibration started: 16 minutes, 59.00 seconds
+
+Zambia--0.02--rep3--FS_iter0 ('b3a7acdc-7313-e911-80ca-f0921c167866') states:
+{'Running': 30}
+
+
+Calibration: Zambia--0.02--rep3--FS
+Calibration started: 2019-01-08 10:33:16
+Current iteration: Iteration 0
+Current Iteration Started: 2019-01-08 10:33:16
+Time since iteration started: 17 minutes, 11.00 seconds
+Time since calibration started: 17 minutes, 11.00 seconds
+
+Zambia--0.02--rep3--FS_iter0 ('b3a7acdc-7313-e911-80ca-f0921c167866') states:
+{'Running': 30}
+
+
+Calibration: Zambia--0.02--rep3--FS
+Calibration started: 2019-01-08 10:33:16
+Current iteration: Iteration 0
+Current Iteration Started: 2019-01-08 10:33:16
+Time since iteration started: 17 minutes, 23.00 seconds
+Time since calibration started: 17 minutes, 23.00 seconds
+
+Zambia--0.02--rep3--FS_iter0 ('b3a7acdc-7313-e911-80ca-f0921c167866') states:
+{'Running': 30}
+
+
+Calibration: Zambia--0.02--rep3--FS
+Calibration started: 2019-01-08 10:33:16
+Current iteration: Iteration 0
+Current Iteration Started: 2019-01-08 10:33:16
+Time since iteration started: 17 minutes, 35.00 seconds
+Time since calibration started: 17 minutes, 35.00 seconds
+
+Zambia--0.02--rep3--FS_iter0 ('b3a7acdc-7313-e911-80ca-f0921c167866') states:
+{'Running': 30}
+
+
+Calibration: Zambia--0.02--rep3--FS
+Calibration started: 2019-01-08 10:33:16
+Current iteration: Iteration 0
+Current Iteration Started: 2019-01-08 10:33:16
+Time since iteration started: 17 minutes, 46.00 seconds
+Time since calibration started: 17 minutes, 46.00 seconds
+
+Zambia--0.02--rep3--FS_iter0 ('b3a7acdc-7313-e911-80ca-f0921c167866') states:
+{'Running': 30}
+
+
+Calibration: Zambia--0.02--rep3--FS
+Calibration started: 2019-01-08 10:33:16
+Current iteration: Iteration 0
+Current Iteration Started: 2019-01-08 10:33:16
+Time since iteration started: 17 minutes, 58.00 seconds
+Time since calibration started: 17 minutes, 58.00 seconds
+
+Zambia--0.02--rep3--FS_iter0 ('b3a7acdc-7313-e911-80ca-f0921c167866') states:
+{'Running': 30}
+
+
+Calibration: Zambia--0.02--rep3--FS
+Calibration started: 2019-01-08 10:33:16
+Current iteration: Iteration 0
+Current Iteration Started: 2019-01-08 10:33:16
+Time since iteration started: 18 minutes, 9.00 seconds
+Time since calibration started: 18 minutes, 9.00 seconds
+
+Zambia--0.02--rep3--FS_iter0 ('b3a7acdc-7313-e911-80ca-f0921c167866') states:
+{'Running': 30}
+
+
+Calibration: Zambia--0.02--rep3--FS
+Calibration started: 2019-01-08 10:33:16
+Current iteration: Iteration 0
+Current Iteration Started: 2019-01-08 10:33:16
+Time since iteration started: 18 minutes, 21.00 seconds
+Time since calibration started: 18 minutes, 21.00 seconds
+
+Zambia--0.02--rep3--FS_iter0 ('b3a7acdc-7313-e911-80ca-f0921c167866') states:
+{'Running': 30}
+
+
+Calibration: Zambia--0.02--rep3--FS
+Calibration started: 2019-01-08 10:33:16
+Current iteration: Iteration 0
+Current Iteration Started: 2019-01-08 10:33:16
+Time since iteration started: 18 minutes, 33.00 seconds
+Time since calibration started: 18 minutes, 33.00 seconds
+
+Zambia--0.02--rep3--FS_iter0 ('b3a7acdc-7313-e911-80ca-f0921c167866') states:
+{'Running': 30}
+
+
+Calibration: Zambia--0.02--rep3--FS
+Calibration started: 2019-01-08 10:33:16
+Current iteration: Iteration 0
+Current Iteration Started: 2019-01-08 10:33:16
+Time since iteration started: 18 minutes, 44.00 seconds
+Time since calibration started: 18 minutes, 44.00 seconds
+
+Zambia--0.02--rep3--FS_iter0 ('b3a7acdc-7313-e911-80ca-f0921c167866') states:
+{'Running': 30}
+
+
+Calibration: Zambia--0.02--rep3--FS
+Calibration started: 2019-01-08 10:33:16
+Current iteration: Iteration 0
+Current Iteration Started: 2019-01-08 10:33:16
+Time since iteration started: 18 minutes, 56.00 seconds
+Time since calibration started: 18 minutes, 56.00 seconds
+
+Zambia--0.02--rep3--FS_iter0 ('b3a7acdc-7313-e911-80ca-f0921c167866') states:
+{'Running': 30}
+
+
+Calibration: Zambia--0.02--rep3--FS
+Calibration started: 2019-01-08 10:33:16
+Current iteration: Iteration 0
+Current Iteration Started: 2019-01-08 10:33:16
+Time since iteration started: 19 minutes, 8.00 seconds
+Time since calibration started: 19 minutes, 8.00 seconds
+
+Zambia--0.02--rep3--FS_iter0 ('b3a7acdc-7313-e911-80ca-f0921c167866') states:
+{'Running': 30}
+
+
+Calibration: Zambia--0.02--rep3--FS
+Calibration started: 2019-01-08 10:33:16
+Current iteration: Iteration 0
+Current Iteration Started: 2019-01-08 10:33:16
+Time since iteration started: 19 minutes, 19.00 seconds
+Time since calibration started: 19 minutes, 19.00 seconds
+
+Zambia--0.02--rep3--FS_iter0 ('b3a7acdc-7313-e911-80ca-f0921c167866') states:
+{'Running': 30}
+
+
+Calibration: Zambia--0.02--rep3--FS
+Calibration started: 2019-01-08 10:33:16
+Current iteration: Iteration 0
+Current Iteration Started: 2019-01-08 10:33:16
+Time since iteration started: 19 minutes, 31.00 seconds
+Time since calibration started: 19 minutes, 31.00 seconds
+
+Zambia--0.02--rep3--FS_iter0 ('b3a7acdc-7313-e911-80ca-f0921c167866') states:
+{'Running': 30}
+
+
+Calibration: Zambia--0.02--rep3--FS
+Calibration started: 2019-01-08 10:33:16
+Current iteration: Iteration 0
+Current Iteration Started: 2019-01-08 10:33:16
+Time since iteration started: 19 minutes, 43.00 seconds
+Time since calibration started: 19 minutes, 43.00 seconds
+
+Zambia--0.02--rep3--FS_iter0 ('b3a7acdc-7313-e911-80ca-f0921c167866') states:
+{'Running': 30}
+
+
+Calibration: Zambia--0.02--rep3--FS
+Calibration started: 2019-01-08 10:33:16
+Current iteration: Iteration 0
+Current Iteration Started: 2019-01-08 10:33:16
+Time since iteration started: 19 minutes, 54.00 seconds
+Time since calibration started: 19 minutes, 54.00 seconds
+
+Zambia--0.02--rep3--FS_iter0 ('b3a7acdc-7313-e911-80ca-f0921c167866') states:
+{'Running': 30}
+
+
+Calibration: Zambia--0.02--rep3--FS
+Calibration started: 2019-01-08 10:33:16
+Current iteration: Iteration 0
+Current Iteration Started: 2019-01-08 10:33:16
+Time since iteration started: 20 minutes, 6.00 seconds
+Time since calibration started: 20 minutes, 6.00 seconds
+
+Zambia--0.02--rep3--FS_iter0 ('b3a7acdc-7313-e911-80ca-f0921c167866') states:
+{'Running': 30}
+
+
+Calibration: Zambia--0.02--rep3--FS
+Calibration started: 2019-01-08 10:33:16
+Current iteration: Iteration 0
+Current Iteration Started: 2019-01-08 10:33:16
+Time since iteration started: 20 minutes, 17.00 seconds
+Time since calibration started: 20 minutes, 17.00 seconds
+
+Zambia--0.02--rep3--FS_iter0 ('b3a7acdc-7313-e911-80ca-f0921c167866') states:
+{'Running': 30}
+
+
+Calibration: Zambia--0.02--rep3--FS
+Calibration started: 2019-01-08 10:33:16
+Current iteration: Iteration 0
+Current Iteration Started: 2019-01-08 10:33:16
+Time since iteration started: 20 minutes, 29.00 seconds
+Time since calibration started: 20 minutes, 29.00 seconds
+
+Zambia--0.02--rep3--FS_iter0 ('b3a7acdc-7313-e911-80ca-f0921c167866') states:
+{'Running': 30}
+
+
+Calibration: Zambia--0.02--rep3--FS
+Calibration started: 2019-01-08 10:33:16
+Current iteration: Iteration 0
+Current Iteration Started: 2019-01-08 10:33:16
+Time since iteration started: 20 minutes, 41.00 seconds
+Time since calibration started: 20 minutes, 41.00 seconds
+
+Zambia--0.02--rep3--FS_iter0 ('b3a7acdc-7313-e911-80ca-f0921c167866') states:
+{'Running': 30}
+
+
+Calibration: Zambia--0.02--rep3--FS
+Calibration started: 2019-01-08 10:33:16
+Current iteration: Iteration 0
+Current Iteration Started: 2019-01-08 10:33:16
+Time since iteration started: 20 minutes, 53.00 seconds
+Time since calibration started: 20 minutes, 53.00 seconds
+
+Zambia--0.02--rep3--FS_iter0 ('b3a7acdc-7313-e911-80ca-f0921c167866') states:
+{'Running': 30}
+
+
+Calibration: Zambia--0.02--rep3--FS
+Calibration started: 2019-01-08 10:33:16
+Current iteration: Iteration 0
+Current Iteration Started: 2019-01-08 10:33:16
+Time since iteration started: 21 minutes, 5.00 seconds
+Time since calibration started: 21 minutes, 5.00 seconds
+
+Zambia--0.02--rep3--FS_iter0 ('b3a7acdc-7313-e911-80ca-f0921c167866') states:
+{'Running': 30}
+
+
+Calibration: Zambia--0.02--rep3--FS
+Calibration started: 2019-01-08 10:33:16
+Current iteration: Iteration 0
+Current Iteration Started: 2019-01-08 10:33:16
+Time since iteration started: 21 minutes, 17.00 seconds
+Time since calibration started: 21 minutes, 17.00 seconds
+
+Zambia--0.02--rep3--FS_iter0 ('b3a7acdc-7313-e911-80ca-f0921c167866') states:
+{'Running': 30}
+
+
+Calibration: Zambia--0.02--rep3--FS
+Calibration started: 2019-01-08 10:33:16
+Current iteration: Iteration 0
+Current Iteration Started: 2019-01-08 10:33:16
+Time since iteration started: 21 minutes, 29.00 seconds
+Time since calibration started: 21 minutes, 29.00 seconds
+
+Zambia--0.02--rep3--FS_iter0 ('b3a7acdc-7313-e911-80ca-f0921c167866') states:
+{'Running': 30}
+
+
+Calibration: Zambia--0.02--rep3--FS
+Calibration started: 2019-01-08 10:33:16
+Current iteration: Iteration 0
+Current Iteration Started: 2019-01-08 10:33:16
+Time since iteration started: 21 minutes, 40.00 seconds
+Time since calibration started: 21 minutes, 40.00 seconds
+
+Zambia--0.02--rep3--FS_iter0 ('b3a7acdc-7313-e911-80ca-f0921c167866') states:
+{'Running': 30}
+
+
+Calibration: Zambia--0.02--rep3--FS
+Calibration started: 2019-01-08 10:33:16
+Current iteration: Iteration 0
+Current Iteration Started: 2019-01-08 10:33:16
+Time since iteration started: 21 minutes, 52.00 seconds
+Time since calibration started: 21 minutes, 52.00 seconds
+
+Zambia--0.02--rep3--FS_iter0 ('b3a7acdc-7313-e911-80ca-f0921c167866') states:
+{'Running': 30}
+
+
+Calibration: Zambia--0.02--rep3--FS
+Calibration started: 2019-01-08 10:33:16
+Current iteration: Iteration 0
+Current Iteration Started: 2019-01-08 10:33:16
+Time since iteration started: 22 minutes, 4.00 seconds
+Time since calibration started: 22 minutes, 4.00 seconds
+
+Zambia--0.02--rep3--FS_iter0 ('b3a7acdc-7313-e911-80ca-f0921c167866') states:
+{'Running': 30}
+
+
+Calibration: Zambia--0.02--rep3--FS
+Calibration started: 2019-01-08 10:33:16
+Current iteration: Iteration 0
+Current Iteration Started: 2019-01-08 10:33:16
+Time since iteration started: 22 minutes, 15.00 seconds
+Time since calibration started: 22 minutes, 15.00 seconds
+
+Zambia--0.02--rep3--FS_iter0 ('b3a7acdc-7313-e911-80ca-f0921c167866') states:
+{'Running': 30}
+
+
+Calibration: Zambia--0.02--rep3--FS
+Calibration started: 2019-01-08 10:33:16
+Current iteration: Iteration 0
+Current Iteration Started: 2019-01-08 10:33:16
+Time since iteration started: 22 minutes, 27.00 seconds
+Time since calibration started: 22 minutes, 27.00 seconds
+
+Zambia--0.02--rep3--FS_iter0 ('b3a7acdc-7313-e911-80ca-f0921c167866') states:
+{'Running': 30}
+
+
+Calibration: Zambia--0.02--rep3--FS
+Calibration started: 2019-01-08 10:33:16
+Current iteration: Iteration 0
+Current Iteration Started: 2019-01-08 10:33:16
+Time since iteration started: 22 minutes, 38.00 seconds
+Time since calibration started: 22 minutes, 38.00 seconds
+
+Zambia--0.02--rep3--FS_iter0 ('b3a7acdc-7313-e911-80ca-f0921c167866') states:
+{'Running': 30}
+
+
+Calibration: Zambia--0.02--rep3--FS
+Calibration started: 2019-01-08 10:33:16
+Current iteration: Iteration 0
+Current Iteration Started: 2019-01-08 10:33:16
+Time since iteration started: 22 minutes, 50.00 seconds
+Time since calibration started: 22 minutes, 50.00 seconds
+
+Zambia--0.02--rep3--FS_iter0 ('b3a7acdc-7313-e911-80ca-f0921c167866') states:
+{'Running': 30}
+
+
+Calibration: Zambia--0.02--rep3--FS
+Calibration started: 2019-01-08 10:33:16
+Current iteration: Iteration 0
+Current Iteration Started: 2019-01-08 10:33:16
+Time since iteration started: 23 minutes, 2.00 seconds
+Time since calibration started: 23 minutes, 2.00 seconds
+
+Zambia--0.02--rep3--FS_iter0 ('b3a7acdc-7313-e911-80ca-f0921c167866') states:
+{'Running': 28, 'Succeeded': 2}
+
+
+Calibration: Zambia--0.02--rep3--FS
+Calibration started: 2019-01-08 10:33:16
+Current iteration: Iteration 0
+Current Iteration Started: 2019-01-08 10:33:16
+Time since iteration started: 23 minutes, 14.00 seconds
+Time since calibration started: 23 minutes, 14.00 seconds
+
+Zambia--0.02--rep3--FS_iter0 ('b3a7acdc-7313-e911-80ca-f0921c167866') states:
+{'Running': 26, 'Succeeded': 4}
+
+
+Calibration: Zambia--0.02--rep3--FS
+Calibration started: 2019-01-08 10:33:16
+Current iteration: Iteration 0
+Current Iteration Started: 2019-01-08 10:33:16
+Time since iteration started: 23 minutes, 25.00 seconds
+Time since calibration started: 23 minutes, 25.00 seconds
+
+Zambia--0.02--rep3--FS_iter0 ('b3a7acdc-7313-e911-80ca-f0921c167866') states:
+{'Running': 24, 'Succeeded': 6}
+
+
+Calibration: Zambia--0.02--rep3--FS
+Calibration started: 2019-01-08 10:33:16
+Current iteration: Iteration 0
+Current Iteration Started: 2019-01-08 10:33:16
+Time since iteration started: 23 minutes, 37.00 seconds
+Time since calibration started: 23 minutes, 37.00 seconds
+
+Zambia--0.02--rep3--FS_iter0 ('b3a7acdc-7313-e911-80ca-f0921c167866') states:
+{'Running': 22, 'Succeeded': 8}
+
+
+Calibration: Zambia--0.02--rep3--FS
+Calibration started: 2019-01-08 10:33:16
+Current iteration: Iteration 0
+Current Iteration Started: 2019-01-08 10:33:16
+Time since iteration started: 23 minutes, 49.00 seconds
+Time since calibration started: 23 minutes, 49.00 seconds
+
+Zambia--0.02--rep3--FS_iter0 ('b3a7acdc-7313-e911-80ca-f0921c167866') states:
+{'Running': 22, 'Succeeded': 8}
+
+
+Calibration: Zambia--0.02--rep3--FS
+Calibration started: 2019-01-08 10:33:16
+Current iteration: Iteration 0
+Current Iteration Started: 2019-01-08 10:33:16
+Time since iteration started: 24 minutes
+Time since calibration started: 24 minutes
+
+Zambia--0.02--rep3--FS_iter0 ('b3a7acdc-7313-e911-80ca-f0921c167866') states:
+{'Running': 21, 'Succeeded': 9}
+
+
+Calibration: Zambia--0.02--rep3--FS
+Calibration started: 2019-01-08 10:33:16
+Current iteration: Iteration 0
+Current Iteration Started: 2019-01-08 10:33:16
+Time since iteration started: 24 minutes, 12.00 seconds
+Time since calibration started: 24 minutes, 12.00 seconds
+
+Zambia--0.02--rep3--FS_iter0 ('b3a7acdc-7313-e911-80ca-f0921c167866') states:
+{'Running': 21, 'Succeeded': 9}
+
+
+Calibration: Zambia--0.02--rep3--FS
+Calibration started: 2019-01-08 10:33:16
+Current iteration: Iteration 0
+Current Iteration Started: 2019-01-08 10:33:16
+Time since iteration started: 24 minutes, 23.00 seconds
+Time since calibration started: 24 minutes, 23.00 seconds
+
+Zambia--0.02--rep3--FS_iter0 ('b3a7acdc-7313-e911-80ca-f0921c167866') states:
+{'Running': 21, 'Succeeded': 9}
+
+
+Calibration: Zambia--0.02--rep3--FS
+Calibration started: 2019-01-08 10:33:16
+Current iteration: Iteration 0
+Current Iteration Started: 2019-01-08 10:33:16
+Time since iteration started: 24 minutes, 35.00 seconds
+Time since calibration started: 24 minutes, 35.00 seconds
+
+Zambia--0.02--rep3--FS_iter0 ('b3a7acdc-7313-e911-80ca-f0921c167866') states:
+{'Running': 21, 'Succeeded': 9}
+
+
+Calibration: Zambia--0.02--rep3--FS
+Calibration started: 2019-01-08 10:33:16
+Current iteration: Iteration 0
+Current Iteration Started: 2019-01-08 10:33:16
+Time since iteration started: 24 minutes, 47.00 seconds
+Time since calibration started: 24 minutes, 47.00 seconds
+
+Zambia--0.02--rep3--FS_iter0 ('b3a7acdc-7313-e911-80ca-f0921c167866') states:
+{'Running': 21, 'Succeeded': 9}
+
+
+Calibration: Zambia--0.02--rep3--FS
+Calibration started: 2019-01-08 10:33:16
+Current iteration: Iteration 0
+Current Iteration Started: 2019-01-08 10:33:16
+Time since iteration started: 24 minutes, 58.00 seconds
+Time since calibration started: 24 minutes, 58.00 seconds
+
+Zambia--0.02--rep3--FS_iter0 ('b3a7acdc-7313-e911-80ca-f0921c167866') states:
+{'Running': 21, 'Succeeded': 9}
+
+
+Calibration: Zambia--0.02--rep3--FS
+Calibration started: 2019-01-08 10:33:16
+Current iteration: Iteration 0
+Current Iteration Started: 2019-01-08 10:33:16
+Time since iteration started: 25 minutes, 10.00 seconds
+Time since calibration started: 25 minutes, 10.00 seconds
+
+Zambia--0.02--rep3--FS_iter0 ('b3a7acdc-7313-e911-80ca-f0921c167866') states:
+{'Running': 21, 'Succeeded': 9}
+
+
+Calibration: Zambia--0.02--rep3--FS
+Calibration started: 2019-01-08 10:33:16
+Current iteration: Iteration 0
+Current Iteration Started: 2019-01-08 10:33:16
+Time since iteration started: 25 minutes, 22.00 seconds
+Time since calibration started: 25 minutes, 22.00 seconds
+
+Zambia--0.02--rep3--FS_iter0 ('b3a7acdc-7313-e911-80ca-f0921c167866') states:
+{'Running': 21, 'Succeeded': 9}
+
+
+Calibration: Zambia--0.02--rep3--FS
+Calibration started: 2019-01-08 10:33:16
+Current iteration: Iteration 0
+Current Iteration Started: 2019-01-08 10:33:16
+Time since iteration started: 25 minutes, 33.00 seconds
+Time since calibration started: 25 minutes, 33.00 seconds
+
+Zambia--0.02--rep3--FS_iter0 ('b3a7acdc-7313-e911-80ca-f0921c167866') states:
+{'Running': 21, 'Succeeded': 9}
+
+
+Calibration: Zambia--0.02--rep3--FS
+Calibration started: 2019-01-08 10:33:16
+Current iteration: Iteration 0
+Current Iteration Started: 2019-01-08 10:33:16
+Time since iteration started: 25 minutes, 45.00 seconds
+Time since calibration started: 25 minutes, 45.00 seconds
+
+Zambia--0.02--rep3--FS_iter0 ('b3a7acdc-7313-e911-80ca-f0921c167866') states:
+{'Running': 19, 'Succeeded': 11}
+
+
+Calibration: Zambia--0.02--rep3--FS
+Calibration started: 2019-01-08 10:33:16
+Current iteration: Iteration 0
+Current Iteration Started: 2019-01-08 10:33:16
+Time since iteration started: 25 minutes, 57.00 seconds
+Time since calibration started: 25 minutes, 57.00 seconds
+
+Zambia--0.02--rep3--FS_iter0 ('b3a7acdc-7313-e911-80ca-f0921c167866') states:
+{'Running': 19, 'Succeeded': 11}
+
+
+Calibration: Zambia--0.02--rep3--FS
+Calibration started: 2019-01-08 10:33:16
+Current iteration: Iteration 0
+Current Iteration Started: 2019-01-08 10:33:16
+Time since iteration started: 26 minutes, 8.00 seconds
+Time since calibration started: 26 minutes, 8.00 seconds
+
+Zambia--0.02--rep3--FS_iter0 ('b3a7acdc-7313-e911-80ca-f0921c167866') states:
+{'Running': 19, 'Succeeded': 11}
+
+
+Calibration: Zambia--0.02--rep3--FS
+Calibration started: 2019-01-08 10:33:16
+Current iteration: Iteration 0
+Current Iteration Started: 2019-01-08 10:33:16
+Time since iteration started: 26 minutes, 20.00 seconds
+Time since calibration started: 26 minutes, 20.00 seconds
+
+Zambia--0.02--rep3--FS_iter0 ('b3a7acdc-7313-e911-80ca-f0921c167866') states:
+{'Running': 19, 'Succeeded': 11}
+
+
+Calibration: Zambia--0.02--rep3--FS
+Calibration started: 2019-01-08 10:33:16
+Current iteration: Iteration 0
+Current Iteration Started: 2019-01-08 10:33:16
+Time since iteration started: 26 minutes, 32.00 seconds
+Time since calibration started: 26 minutes, 32.00 seconds
+
+Zambia--0.02--rep3--FS_iter0 ('b3a7acdc-7313-e911-80ca-f0921c167866') states:
+{'Running': 19, 'Succeeded': 11}
+
+
+Calibration: Zambia--0.02--rep3--FS
+Calibration started: 2019-01-08 10:33:16
+Current iteration: Iteration 0
+Current Iteration Started: 2019-01-08 10:33:16
+Time since iteration started: 26 minutes, 43.00 seconds
+Time since calibration started: 26 minutes, 43.00 seconds
+
+Zambia--0.02--rep3--FS_iter0 ('b3a7acdc-7313-e911-80ca-f0921c167866') states:
+{'Running': 19, 'Succeeded': 11}
+
+
+Calibration: Zambia--0.02--rep3--FS
+Calibration started: 2019-01-08 10:33:16
+Current iteration: Iteration 0
+Current Iteration Started: 2019-01-08 10:33:16
+Time since iteration started: 26 minutes, 55.00 seconds
+Time since calibration started: 26 minutes, 55.00 seconds
+
+Zambia--0.02--rep3--FS_iter0 ('b3a7acdc-7313-e911-80ca-f0921c167866') states:
+{'Running': 19, 'Succeeded': 11}
+
+
+Calibration: Zambia--0.02--rep3--FS
+Calibration started: 2019-01-08 10:33:16
+Current iteration: Iteration 0
+Current Iteration Started: 2019-01-08 10:33:16
+Time since iteration started: 27 minutes, 7.00 seconds
+Time since calibration started: 27 minutes, 7.00 seconds
+
+Zambia--0.02--rep3--FS_iter0 ('b3a7acdc-7313-e911-80ca-f0921c167866') states:
+{'Running': 19, 'Succeeded': 11}
+
+
+Calibration: Zambia--0.02--rep3--FS
+Calibration started: 2019-01-08 10:33:16
+Current iteration: Iteration 0
+Current Iteration Started: 2019-01-08 10:33:16
+Time since iteration started: 27 minutes, 18.00 seconds
+Time since calibration started: 27 minutes, 18.00 seconds
+
+Zambia--0.02--rep3--FS_iter0 ('b3a7acdc-7313-e911-80ca-f0921c167866') states:
+{'Running': 19, 'Succeeded': 11}
+
+
+Calibration: Zambia--0.02--rep3--FS
+Calibration started: 2019-01-08 10:33:16
+Current iteration: Iteration 0
+Current Iteration Started: 2019-01-08 10:33:16
+Time since iteration started: 27 minutes, 30.00 seconds
+Time since calibration started: 27 minutes, 30.00 seconds
+
+Zambia--0.02--rep3--FS_iter0 ('b3a7acdc-7313-e911-80ca-f0921c167866') states:
+{'Running': 19, 'Succeeded': 11}
+
+
+Calibration: Zambia--0.02--rep3--FS
+Calibration started: 2019-01-08 10:33:16
+Current iteration: Iteration 0
+Current Iteration Started: 2019-01-08 10:33:16
+Time since iteration started: 27 minutes, 41.00 seconds
+Time since calibration started: 27 minutes, 41.00 seconds
+
+Zambia--0.02--rep3--FS_iter0 ('b3a7acdc-7313-e911-80ca-f0921c167866') states:
+{'Running': 19, 'Succeeded': 11}
+
+
+Calibration: Zambia--0.02--rep3--FS
+Calibration started: 2019-01-08 10:33:16
+Current iteration: Iteration 0
+Current Iteration Started: 2019-01-08 10:33:16
+Time since iteration started: 27 minutes, 53.00 seconds
+Time since calibration started: 27 minutes, 53.00 seconds
+
+Zambia--0.02--rep3--FS_iter0 ('b3a7acdc-7313-e911-80ca-f0921c167866') states:
+{'Running': 19, 'Succeeded': 11}
+
+
+Calibration: Zambia--0.02--rep3--FS
+Calibration started: 2019-01-08 10:33:16
+Current iteration: Iteration 0
+Current Iteration Started: 2019-01-08 10:33:16
+Time since iteration started: 28 minutes, 5.00 seconds
+Time since calibration started: 28 minutes, 5.00 seconds
+
+Zambia--0.02--rep3--FS_iter0 ('b3a7acdc-7313-e911-80ca-f0921c167866') states:
+{'Running': 19, 'Succeeded': 11}
+
+
+Calibration: Zambia--0.02--rep3--FS
+Calibration started: 2019-01-08 10:33:16
+Current iteration: Iteration 0
+Current Iteration Started: 2019-01-08 10:33:16
+Time since iteration started: 28 minutes, 17.00 seconds
+Time since calibration started: 28 minutes, 17.00 seconds
+
+Zambia--0.02--rep3--FS_iter0 ('b3a7acdc-7313-e911-80ca-f0921c167866') states:
+{'Running': 19, 'Succeeded': 11}
+
+
+Calibration: Zambia--0.02--rep3--FS
+Calibration started: 2019-01-08 10:33:16
+Current iteration: Iteration 0
+Current Iteration Started: 2019-01-08 10:33:16
+Time since iteration started: 28 minutes, 29.00 seconds
+Time since calibration started: 28 minutes, 29.00 seconds
+
+Zambia--0.02--rep3--FS_iter0 ('b3a7acdc-7313-e911-80ca-f0921c167866') states:
+{'Running': 19, 'Succeeded': 11}
+
+
+Calibration: Zambia--0.02--rep3--FS
+Calibration started: 2019-01-08 10:33:16
+Current iteration: Iteration 0
+Current Iteration Started: 2019-01-08 10:33:16
+Time since iteration started: 28 minutes, 40.00 seconds
+Time since calibration started: 28 minutes, 40.00 seconds
+
+Zambia--0.02--rep3--FS_iter0 ('b3a7acdc-7313-e911-80ca-f0921c167866') states:
+{'Running': 19, 'Succeeded': 11}
+
+
+Calibration: Zambia--0.02--rep3--FS
+Calibration started: 2019-01-08 10:33:16
+Current iteration: Iteration 0
+Current Iteration Started: 2019-01-08 10:33:16
+Time since iteration started: 28 minutes, 52.00 seconds
+Time since calibration started: 28 minutes, 52.00 seconds
+
+Zambia--0.02--rep3--FS_iter0 ('b3a7acdc-7313-e911-80ca-f0921c167866') states:
+{'Running': 19, 'Succeeded': 11}
+
+
+Calibration: Zambia--0.02--rep3--FS
+Calibration started: 2019-01-08 10:33:16
+Current iteration: Iteration 0
+Current Iteration Started: 2019-01-08 10:33:16
+Time since iteration started: 29 minutes, 4.00 seconds
+Time since calibration started: 29 minutes, 4.00 seconds
+
+Zambia--0.02--rep3--FS_iter0 ('b3a7acdc-7313-e911-80ca-f0921c167866') states:
+{'Running': 19, 'Succeeded': 11}
+
+
+Calibration: Zambia--0.02--rep3--FS
+Calibration started: 2019-01-08 10:33:16
+Current iteration: Iteration 0
+Current Iteration Started: 2019-01-08 10:33:16
+Time since iteration started: 29 minutes, 15.00 seconds
+Time since calibration started: 29 minutes, 15.00 seconds
+
+Zambia--0.02--rep3--FS_iter0 ('b3a7acdc-7313-e911-80ca-f0921c167866') states:
+{'Running': 19, 'Succeeded': 11}
+
+
+Calibration: Zambia--0.02--rep3--FS
+Calibration started: 2019-01-08 10:33:16
+Current iteration: Iteration 0
+Current Iteration Started: 2019-01-08 10:33:16
+Time since iteration started: 29 minutes, 27.00 seconds
+Time since calibration started: 29 minutes, 27.00 seconds
+
+Zambia--0.02--rep3--FS_iter0 ('b3a7acdc-7313-e911-80ca-f0921c167866') states:
+{'Running': 18, 'Succeeded': 12}
+
+
+Calibration: Zambia--0.02--rep3--FS
+Calibration started: 2019-01-08 10:33:16
+Current iteration: Iteration 0
+Current Iteration Started: 2019-01-08 10:33:16
+Time since iteration started: 29 minutes, 39.00 seconds
+Time since calibration started: 29 minutes, 39.00 seconds
+
+Zambia--0.02--rep3--FS_iter0 ('b3a7acdc-7313-e911-80ca-f0921c167866') states:
+{'Running': 18, 'Succeeded': 12}
+
+
+Calibration: Zambia--0.02--rep3--FS
+Calibration started: 2019-01-08 10:33:16
+Current iteration: Iteration 0
+Current Iteration Started: 2019-01-08 10:33:16
+Time since iteration started: 29 minutes, 50.00 seconds
+Time since calibration started: 29 minutes, 50.00 seconds
+
+Zambia--0.02--rep3--FS_iter0 ('b3a7acdc-7313-e911-80ca-f0921c167866') states:
+{'Running': 18, 'Succeeded': 12}
+
+
+Calibration: Zambia--0.02--rep3--FS
+Calibration started: 2019-01-08 10:33:16
+Current iteration: Iteration 0
+Current Iteration Started: 2019-01-08 10:33:16
+Time since iteration started: 30 minutes, 3.00 seconds
+Time since calibration started: 30 minutes, 3.00 seconds
+
+Zambia--0.02--rep3--FS_iter0 ('b3a7acdc-7313-e911-80ca-f0921c167866') states:
+{'Running': 18, 'Succeeded': 12}
+
+
+Calibration: Zambia--0.02--rep3--FS
+Calibration started: 2019-01-08 10:33:16
+Current iteration: Iteration 0
+Current Iteration Started: 2019-01-08 10:33:16
+Time since iteration started: 30 minutes, 15.00 seconds
+Time since calibration started: 30 minutes, 15.00 seconds
+
+Zambia--0.02--rep3--FS_iter0 ('b3a7acdc-7313-e911-80ca-f0921c167866') states:
+{'Running': 17, 'Succeeded': 13}
+
+
+Calibration: Zambia--0.02--rep3--FS
+Calibration started: 2019-01-08 10:33:16
+Current iteration: Iteration 0
+Current Iteration Started: 2019-01-08 10:33:16
+Time since iteration started: 30 minutes, 26.00 seconds
+Time since calibration started: 30 minutes, 26.00 seconds
+
+Zambia--0.02--rep3--FS_iter0 ('b3a7acdc-7313-e911-80ca-f0921c167866') states:
+{'Running': 17, 'Succeeded': 13}
+
+
+Calibration: Zambia--0.02--rep3--FS
+Calibration started: 2019-01-08 10:33:16
+Current iteration: Iteration 0
+Current Iteration Started: 2019-01-08 10:33:16
+Time since iteration started: 30 minutes, 38.00 seconds
+Time since calibration started: 30 minutes, 38.00 seconds
+
+Zambia--0.02--rep3--FS_iter0 ('b3a7acdc-7313-e911-80ca-f0921c167866') states:
+{'Running': 17, 'Succeeded': 13}
+
+
+Calibration: Zambia--0.02--rep3--FS
+Calibration started: 2019-01-08 10:33:16
+Current iteration: Iteration 0
+Current Iteration Started: 2019-01-08 10:33:16
+Time since iteration started: 30 minutes, 49.00 seconds
+Time since calibration started: 30 minutes, 49.00 seconds
+
+Zambia--0.02--rep3--FS_iter0 ('b3a7acdc-7313-e911-80ca-f0921c167866') states:
+{'Running': 16, 'Succeeded': 14}
+
+
+Calibration: Zambia--0.02--rep3--FS
+Calibration started: 2019-01-08 10:33:16
+Current iteration: Iteration 0
+Current Iteration Started: 2019-01-08 10:33:16
+Time since iteration started: 31 minutes, 1.00 second
+Time since calibration started: 31 minutes, 1.00 second
+
+Zambia--0.02--rep3--FS_iter0 ('b3a7acdc-7313-e911-80ca-f0921c167866') states:
+{'Running': 16, 'Succeeded': 14}
+
+
+Calibration: Zambia--0.02--rep3--FS
+Calibration started: 2019-01-08 10:33:16
+Current iteration: Iteration 0
+Current Iteration Started: 2019-01-08 10:33:16
+Time since iteration started: 31 minutes, 13.00 seconds
+Time since calibration started: 31 minutes, 13.00 seconds
+
+Zambia--0.02--rep3--FS_iter0 ('b3a7acdc-7313-e911-80ca-f0921c167866') states:
+{'Running': 15, 'Succeeded': 15}
+
+
+Calibration: Zambia--0.02--rep3--FS
+Calibration started: 2019-01-08 10:33:16
+Current iteration: Iteration 0
+Current Iteration Started: 2019-01-08 10:33:16
+Time since iteration started: 31 minutes, 24.00 seconds
+Time since calibration started: 31 minutes, 24.00 seconds
+
+Zambia--0.02--rep3--FS_iter0 ('b3a7acdc-7313-e911-80ca-f0921c167866') states:
+{'Running': 15, 'Succeeded': 15}
+
+
+Calibration: Zambia--0.02--rep3--FS
+Calibration started: 2019-01-08 10:33:16
+Current iteration: Iteration 0
+Current Iteration Started: 2019-01-08 10:33:16
+Time since iteration started: 31 minutes, 36.00 seconds
+Time since calibration started: 31 minutes, 36.00 seconds
+
+Zambia--0.02--rep3--FS_iter0 ('b3a7acdc-7313-e911-80ca-f0921c167866') states:
+{'Running': 15, 'Succeeded': 15}
+
+
+Calibration: Zambia--0.02--rep3--FS
+Calibration started: 2019-01-08 10:33:16
+Current iteration: Iteration 0
+Current Iteration Started: 2019-01-08 10:33:16
+Time since iteration started: 31 minutes, 48.00 seconds
+Time since calibration started: 31 minutes, 48.00 seconds
+
+Zambia--0.02--rep3--FS_iter0 ('b3a7acdc-7313-e911-80ca-f0921c167866') states:
+{'Running': 15, 'Succeeded': 15}
+
+
+Calibration: Zambia--0.02--rep3--FS
+Calibration started: 2019-01-08 10:33:16
+Current iteration: Iteration 0
+Current Iteration Started: 2019-01-08 10:33:16
+Time since iteration started: 32 minutes
+Time since calibration started: 32 minutes
+
+Zambia--0.02--rep3--FS_iter0 ('b3a7acdc-7313-e911-80ca-f0921c167866') states:
+{'Running': 15, 'Succeeded': 15}
+
+
+Calibration: Zambia--0.02--rep3--FS
+Calibration started: 2019-01-08 10:33:16
+Current iteration: Iteration 0
+Current Iteration Started: 2019-01-08 10:33:16
+Time since iteration started: 32 minutes, 11.00 seconds
+Time since calibration started: 32 minutes, 11.00 seconds
+
+Zambia--0.02--rep3--FS_iter0 ('b3a7acdc-7313-e911-80ca-f0921c167866') states:
+{'Running': 15, 'Succeeded': 15}
+
+
+Calibration: Zambia--0.02--rep3--FS
+Calibration started: 2019-01-08 10:33:16
+Current iteration: Iteration 0
+Current Iteration Started: 2019-01-08 10:33:16
+Time since iteration started: 32 minutes, 23.00 seconds
+Time since calibration started: 32 minutes, 23.00 seconds
+
+Zambia--0.02--rep3--FS_iter0 ('b3a7acdc-7313-e911-80ca-f0921c167866') states:
+{'Running': 15, 'Succeeded': 15}
+
+
+Calibration: Zambia--0.02--rep3--FS
+Calibration started: 2019-01-08 10:33:16
+Current iteration: Iteration 0
+Current Iteration Started: 2019-01-08 10:33:16
+Time since iteration started: 32 minutes, 34.00 seconds
+Time since calibration started: 32 minutes, 34.00 seconds
+
+Zambia--0.02--rep3--FS_iter0 ('b3a7acdc-7313-e911-80ca-f0921c167866') states:
+{'Running': 15, 'Succeeded': 15}
+
+
+Calibration: Zambia--0.02--rep3--FS
+Calibration started: 2019-01-08 10:33:16
+Current iteration: Iteration 0
+Current Iteration Started: 2019-01-08 10:33:16
+Time since iteration started: 32 minutes, 46.00 seconds
+Time since calibration started: 32 minutes, 46.00 seconds
+
+Zambia--0.02--rep3--FS_iter0 ('b3a7acdc-7313-e911-80ca-f0921c167866') states:
+{'Running': 15, 'Succeeded': 15}
+
+
+Calibration: Zambia--0.02--rep3--FS
+Calibration started: 2019-01-08 10:33:16
+Current iteration: Iteration 0
+Current Iteration Started: 2019-01-08 10:33:16
+Time since iteration started: 32 minutes, 58.00 seconds
+Time since calibration started: 32 minutes, 58.00 seconds
+
+Zambia--0.02--rep3--FS_iter0 ('b3a7acdc-7313-e911-80ca-f0921c167866') states:
+{'Running': 15, 'Succeeded': 15}
+
+
+Calibration: Zambia--0.02--rep3--FS
+Calibration started: 2019-01-08 10:33:16
+Current iteration: Iteration 0
+Current Iteration Started: 2019-01-08 10:33:16
+Time since iteration started: 33 minutes, 9.00 seconds
+Time since calibration started: 33 minutes, 9.00 seconds
+
+Zambia--0.02--rep3--FS_iter0 ('b3a7acdc-7313-e911-80ca-f0921c167866') states:
+{'Running': 14, 'Succeeded': 16}
+
+
+Calibration: Zambia--0.02--rep3--FS
+Calibration started: 2019-01-08 10:33:16
+Current iteration: Iteration 0
+Current Iteration Started: 2019-01-08 10:33:16
+Time since iteration started: 33 minutes, 21.00 seconds
+Time since calibration started: 33 minutes, 21.00 seconds
+
+Zambia--0.02--rep3--FS_iter0 ('b3a7acdc-7313-e911-80ca-f0921c167866') states:
+{'Running': 14, 'Succeeded': 16}
+
+
+Calibration: Zambia--0.02--rep3--FS
+Calibration started: 2019-01-08 10:33:16
+Current iteration: Iteration 0
+Current Iteration Started: 2019-01-08 10:33:16
+Time since iteration started: 33 minutes, 32.00 seconds
+Time since calibration started: 33 minutes, 32.00 seconds
+
+Zambia--0.02--rep3--FS_iter0 ('b3a7acdc-7313-e911-80ca-f0921c167866') states:
+{'Running': 14, 'Succeeded': 16}
+
+
+Calibration: Zambia--0.02--rep3--FS
+Calibration started: 2019-01-08 10:33:16
+Current iteration: Iteration 0
+Current Iteration Started: 2019-01-08 10:33:16
+Time since iteration started: 33 minutes, 44.00 seconds
+Time since calibration started: 33 minutes, 44.00 seconds
+
+Zambia--0.02--rep3--FS_iter0 ('b3a7acdc-7313-e911-80ca-f0921c167866') states:
+{'Running': 14, 'Succeeded': 16}
+
+
+Calibration: Zambia--0.02--rep3--FS
+Calibration started: 2019-01-08 10:33:16
+Current iteration: Iteration 0
+Current Iteration Started: 2019-01-08 10:33:16
+Time since iteration started: 33 minutes, 56.00 seconds
+Time since calibration started: 33 minutes, 56.00 seconds
+
+Zambia--0.02--rep3--FS_iter0 ('b3a7acdc-7313-e911-80ca-f0921c167866') states:
+{'Running': 14, 'Succeeded': 16}
+
+
+Calibration: Zambia--0.02--rep3--FS
+Calibration started: 2019-01-08 10:33:16
+Current iteration: Iteration 0
+Current Iteration Started: 2019-01-08 10:33:16
+Time since iteration started: 34 minutes, 7.00 seconds
+Time since calibration started: 34 minutes, 7.00 seconds
+
+Zambia--0.02--rep3--FS_iter0 ('b3a7acdc-7313-e911-80ca-f0921c167866') states:
+{'Running': 14, 'Succeeded': 16}
+
+
+Calibration: Zambia--0.02--rep3--FS
+Calibration started: 2019-01-08 10:33:16
+Current iteration: Iteration 0
+Current Iteration Started: 2019-01-08 10:33:16
+Time since iteration started: 34 minutes, 19.00 seconds
+Time since calibration started: 34 minutes, 19.00 seconds
+
+Zambia--0.02--rep3--FS_iter0 ('b3a7acdc-7313-e911-80ca-f0921c167866') states:
+{'Running': 14, 'Succeeded': 16}
+
+
+Calibration: Zambia--0.02--rep3--FS
+Calibration started: 2019-01-08 10:33:16
+Current iteration: Iteration 0
+Current Iteration Started: 2019-01-08 10:33:16
+Time since iteration started: 34 minutes, 31.00 seconds
+Time since calibration started: 34 minutes, 31.00 seconds
+
+Zambia--0.02--rep3--FS_iter0 ('b3a7acdc-7313-e911-80ca-f0921c167866') states:
+{'Running': 14, 'Succeeded': 16}
+
+
+Calibration: Zambia--0.02--rep3--FS
+Calibration started: 2019-01-08 10:33:16
+Current iteration: Iteration 0
+Current Iteration Started: 2019-01-08 10:33:16
+Time since iteration started: 34 minutes, 42.00 seconds
+Time since calibration started: 34 minutes, 42.00 seconds
+
+Zambia--0.02--rep3--FS_iter0 ('b3a7acdc-7313-e911-80ca-f0921c167866') states:
+{'Running': 14, 'Succeeded': 16}
+
+
+Calibration: Zambia--0.02--rep3--FS
+Calibration started: 2019-01-08 10:33:16
+Current iteration: Iteration 0
+Current Iteration Started: 2019-01-08 10:33:16
+Time since iteration started: 34 minutes, 54.00 seconds
+Time since calibration started: 34 minutes, 54.00 seconds
+
+Zambia--0.02--rep3--FS_iter0 ('b3a7acdc-7313-e911-80ca-f0921c167866') states:
+{'Running': 14, 'Succeeded': 16}
+
+
+Calibration: Zambia--0.02--rep3--FS
+Calibration started: 2019-01-08 10:33:16
+Current iteration: Iteration 0
+Current Iteration Started: 2019-01-08 10:33:16
+Time since iteration started: 35 minutes, 6.00 seconds
+Time since calibration started: 35 minutes, 6.00 seconds
+
+Zambia--0.02--rep3--FS_iter0 ('b3a7acdc-7313-e911-80ca-f0921c167866') states:
+{'Running': 14, 'Succeeded': 16}
+
+
+Calibration: Zambia--0.02--rep3--FS
+Calibration started: 2019-01-08 10:33:16
+Current iteration: Iteration 0
+Current Iteration Started: 2019-01-08 10:33:16
+Time since iteration started: 35 minutes, 18.00 seconds
+Time since calibration started: 35 minutes, 18.00 seconds
+
+Zambia--0.02--rep3--FS_iter0 ('b3a7acdc-7313-e911-80ca-f0921c167866') states:
+{'Running': 14, 'Succeeded': 16}
+
+
+Calibration: Zambia--0.02--rep3--FS
+Calibration started: 2019-01-08 10:33:16
+Current iteration: Iteration 0
+Current Iteration Started: 2019-01-08 10:33:16
+Time since iteration started: 35 minutes, 30.00 seconds
+Time since calibration started: 35 minutes, 30.00 seconds
+
+Zambia--0.02--rep3--FS_iter0 ('b3a7acdc-7313-e911-80ca-f0921c167866') states:
+{'Running': 14, 'Succeeded': 16}
+
+
+Calibration: Zambia--0.02--rep3--FS
+Calibration started: 2019-01-08 10:33:16
+Current iteration: Iteration 0
+Current Iteration Started: 2019-01-08 10:33:16
+Time since iteration started: 35 minutes, 42.00 seconds
+Time since calibration started: 35 minutes, 42.00 seconds
+
+Zambia--0.02--rep3--FS_iter0 ('b3a7acdc-7313-e911-80ca-f0921c167866') states:
+{'Running': 14, 'Succeeded': 16}
+
+
+Calibration: Zambia--0.02--rep3--FS
+Calibration started: 2019-01-08 10:33:16
+Current iteration: Iteration 0
+Current Iteration Started: 2019-01-08 10:33:16
+Time since iteration started: 35 minutes, 53.00 seconds
+Time since calibration started: 35 minutes, 53.00 seconds
+
+Zambia--0.02--rep3--FS_iter0 ('b3a7acdc-7313-e911-80ca-f0921c167866') states:
+{'Running': 14, 'Succeeded': 16}
+
+
+Calibration: Zambia--0.02--rep3--FS
+Calibration started: 2019-01-08 10:33:16
+Current iteration: Iteration 0
+Current Iteration Started: 2019-01-08 10:33:16
+Time since iteration started: 36 minutes, 5.00 seconds
+Time since calibration started: 36 minutes, 5.00 seconds
+
+Zambia--0.02--rep3--FS_iter0 ('b3a7acdc-7313-e911-80ca-f0921c167866') states:
+{'Running': 14, 'Succeeded': 16}
+
+
+Calibration: Zambia--0.02--rep3--FS
+Calibration started: 2019-01-08 10:33:16
+Current iteration: Iteration 0
+Current Iteration Started: 2019-01-08 10:33:16
+Time since iteration started: 36 minutes, 17.00 seconds
+Time since calibration started: 36 minutes, 17.00 seconds
+
+Zambia--0.02--rep3--FS_iter0 ('b3a7acdc-7313-e911-80ca-f0921c167866') states:
+{'Running': 13, 'Succeeded': 17}
+
+
+Calibration: Zambia--0.02--rep3--FS
+Calibration started: 2019-01-08 10:33:16
+Current iteration: Iteration 0
+Current Iteration Started: 2019-01-08 10:33:16
+Time since iteration started: 36 minutes, 28.00 seconds
+Time since calibration started: 36 minutes, 28.00 seconds
+
+Zambia--0.02--rep3--FS_iter0 ('b3a7acdc-7313-e911-80ca-f0921c167866') states:
+{'Running': 11, 'Succeeded': 19}
+
+
+Calibration: Zambia--0.02--rep3--FS
+Calibration started: 2019-01-08 10:33:16
+Current iteration: Iteration 0
+Current Iteration Started: 2019-01-08 10:33:16
+Time since iteration started: 36 minutes, 40.00 seconds
+Time since calibration started: 36 minutes, 40.00 seconds
+
+Zambia--0.02--rep3--FS_iter0 ('b3a7acdc-7313-e911-80ca-f0921c167866') states:
+{'Running': 10, 'Succeeded': 20}
+
+
+Calibration: Zambia--0.02--rep3--FS
+Calibration started: 2019-01-08 10:33:16
+Current iteration: Iteration 0
+Current Iteration Started: 2019-01-08 10:33:16
+Time since iteration started: 36 minutes, 51.00 seconds
+Time since calibration started: 36 minutes, 51.00 seconds
+
+Zambia--0.02--rep3--FS_iter0 ('b3a7acdc-7313-e911-80ca-f0921c167866') states:
+{'Running': 10, 'Succeeded': 20}
+
+
+Calibration: Zambia--0.02--rep3--FS
+Calibration started: 2019-01-08 10:33:16
+Current iteration: Iteration 0
+Current Iteration Started: 2019-01-08 10:33:16
+Time since iteration started: 37 minutes, 3.00 seconds
+Time since calibration started: 37 minutes, 3.00 seconds
+
+Zambia--0.02--rep3--FS_iter0 ('b3a7acdc-7313-e911-80ca-f0921c167866') states:
+{'Running': 9, 'Succeeded': 21}
+
+
+Calibration: Zambia--0.02--rep3--FS
+Calibration started: 2019-01-08 10:33:16
+Current iteration: Iteration 0
+Current Iteration Started: 2019-01-08 10:33:16
+Time since iteration started: 37 minutes, 15.00 seconds
+Time since calibration started: 37 minutes, 15.00 seconds
+
+Zambia--0.02--rep3--FS_iter0 ('b3a7acdc-7313-e911-80ca-f0921c167866') states:
+{'Running': 9, 'Succeeded': 21}
+
+
+Calibration: Zambia--0.02--rep3--FS
+Calibration started: 2019-01-08 10:33:16
+Current iteration: Iteration 0
+Current Iteration Started: 2019-01-08 10:33:16
+Time since iteration started: 37 minutes, 26.00 seconds
+Time since calibration started: 37 minutes, 26.00 seconds
+
+Zambia--0.02--rep3--FS_iter0 ('b3a7acdc-7313-e911-80ca-f0921c167866') states:
+{'Succeeded': 22, 'Running': 8}
+
+
+Calibration: Zambia--0.02--rep3--FS
+Calibration started: 2019-01-08 10:33:16
+Current iteration: Iteration 0
+Current Iteration Started: 2019-01-08 10:33:16
+Time since iteration started: 37 minutes, 38.00 seconds
+Time since calibration started: 37 minutes, 38.00 seconds
+
+Zambia--0.02--rep3--FS_iter0 ('b3a7acdc-7313-e911-80ca-f0921c167866') states:
+{'Succeeded': 22, 'Running': 8}
+
+
+Calibration: Zambia--0.02--rep3--FS
+Calibration started: 2019-01-08 10:33:16
+Current iteration: Iteration 0
+Current Iteration Started: 2019-01-08 10:33:16
+Time since iteration started: 37 minutes, 50.00 seconds
+Time since calibration started: 37 minutes, 50.00 seconds
+
+Zambia--0.02--rep3--FS_iter0 ('b3a7acdc-7313-e911-80ca-f0921c167866') states:
+{'Succeeded': 28, 'Running': 2}
+
+
+Calibration: Zambia--0.02--rep3--FS
+Calibration started: 2019-01-08 10:33:16
+Current iteration: Iteration 0
+Current Iteration Started: 2019-01-08 10:33:16
+Time since iteration started: 38 minutes, 1.00 second
+Time since calibration started: 38 minutes, 1.00 second
+
+Zambia--0.02--rep3--FS_iter0 ('b3a7acdc-7313-e911-80ca-f0921c167866') states:
+{'Succeeded': 28, 'Running': 2}
+
+
+Calibration: Zambia--0.02--rep3--FS
+Calibration started: 2019-01-08 10:33:16
+Current iteration: Iteration 0
+Current Iteration Started: 2019-01-08 10:33:16
+Time since iteration started: 38 minutes, 13.00 seconds
+Time since calibration started: 38 minutes, 13.00 seconds
+
+Zambia--0.02--rep3--FS_iter0 ('b3a7acdc-7313-e911-80ca-f0921c167866') states:
+{'Succeeded': 29, 'Running': 1}
+
+
+Calibration: Zambia--0.02--rep3--FS
+Calibration started: 2019-01-08 10:33:16
+Current iteration: Iteration 0
+Current Iteration Started: 2019-01-08 10:33:16
+Time since iteration started: 38 minutes, 24.00 seconds
+Time since calibration started: 38 minutes, 24.00 seconds
+
+Zambia--0.02--rep3--FS_iter0 ('b3a7acdc-7313-e911-80ca-f0921c167866') states:
+{'Succeeded': 29, 'Running': 1}
+
+
+Calibration: Zambia--0.02--rep3--FS
+Calibration started: 2019-01-08 10:33:16
+Current iteration: Iteration 0
+Current Iteration Started: 2019-01-08 10:33:16
+Time since iteration started: 38 minutes, 36.00 seconds
+Time since calibration started: 38 minutes, 36.00 seconds
+
+Zambia--0.02--rep3--FS_iter0 ('b3a7acdc-7313-e911-80ca-f0921c167866') states:
+{'Succeeded': 29, 'Running': 1}
+
+
+Calibration: Zambia--0.02--rep3--FS
+Calibration started: 2019-01-08 10:33:16
+Current iteration: Iteration 0
+Current Iteration Started: 2019-01-08 10:33:16
+Time since iteration started: 38 minutes, 48.00 seconds
+Time since calibration started: 38 minutes, 48.00 seconds
+
+Zambia--0.02--rep3--FS_iter0 ('b3a7acdc-7313-e911-80ca-f0921c167866') states:
+{'Succeeded': 29, 'Running': 1}
+
+
+Calibration: Zambia--0.02--rep3--FS
+Calibration started: 2019-01-08 10:33:16
+Current iteration: Iteration 0
+Current Iteration Started: 2019-01-08 10:33:16
+Time since iteration started: 38 minutes, 59.00 seconds
+Time since calibration started: 38 minutes, 59.00 seconds
+
+Zambia--0.02--rep3--FS_iter0 ('b3a7acdc-7313-e911-80ca-f0921c167866') states:
+{'Succeeded': 29, 'Running': 1}
+
+
+Calibration: Zambia--0.02--rep3--FS
+Calibration started: 2019-01-08 10:33:16
+Current iteration: Iteration 0
+Current Iteration Started: 2019-01-08 10:33:16
+Time since iteration started: 39 minutes, 11.00 seconds
+Time since calibration started: 39 minutes, 11.00 seconds
+
+Zambia--0.02--rep3--FS_iter0 ('b3a7acdc-7313-e911-80ca-f0921c167866') states:
+{'Succeeded': 29, 'Running': 1}
+
+
+Calibration: Zambia--0.02--rep3--FS
+Calibration started: 2019-01-08 10:33:16
+Current iteration: Iteration 0
+Current Iteration Started: 2019-01-08 10:33:16
+Time since iteration started: 39 minutes, 22.00 seconds
+Time since calibration started: 39 minutes, 22.00 seconds
+
+Zambia--0.02--rep3--FS_iter0 ('b3a7acdc-7313-e911-80ca-f0921c167866') states:
+{'Succeeded': 29, 'Running': 1}
+
+
+Calibration: Zambia--0.02--rep3--FS
+Calibration started: 2019-01-08 10:33:16
+Current iteration: Iteration 0
+Current Iteration Started: 2019-01-08 10:33:16
+Time since iteration started: 39 minutes, 34.00 seconds
+Time since calibration started: 39 minutes, 34.00 seconds
+
+Zambia--0.02--rep3--FS_iter0 ('b3a7acdc-7313-e911-80ca-f0921c167866') states:
+{'Succeeded': 29, 'Running': 1}
+
+
+Calibration: Zambia--0.02--rep3--FS
+Calibration started: 2019-01-08 10:33:16
+Current iteration: Iteration 0
+Current Iteration Started: 2019-01-08 10:33:16
+Time since iteration started: 39 minutes, 46.00 seconds
+Time since calibration started: 39 minutes, 46.00 seconds
+
+Zambia--0.02--rep3--FS_iter0 ('b3a7acdc-7313-e911-80ca-f0921c167866') states:
+{'Succeeded': 29, 'Running': 1}
+
+
+Calibration: Zambia--0.02--rep3--FS
+Calibration started: 2019-01-08 10:33:16
+Current iteration: Iteration 0
+Current Iteration Started: 2019-01-08 10:33:16
+Time since iteration started: 39 minutes, 57.00 seconds
+Time since calibration started: 39 minutes, 57.00 seconds
+
+Zambia--0.02--rep3--FS_iter0 ('b3a7acdc-7313-e911-80ca-f0921c167866') states:
+{'Succeeded': 30}
+Iteration 0 done (took 39 minutes, 57.00 seconds)
+Traceback (most recent call last):
+  File "C:\Python36\Lib\site-packages\diskcache\core.py", line 382, in __init__
+    os.makedirs(directory, 0o755)
+  File "C:\Python36\lib\os.py", line 220, in makedirs
+    mkdir(name, mode)
+OSError: [WinError 123] The filename, directory name, or volume label syntax is incorrect: 'HIVCalibSite_OnART_Non-provincial_[0:15)[15:100)_GaussianDistribution_cache'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:/GitHub/HIV/Supriya Sarkar/optim_script.py", line 229, in <module>
+    #calib_manager.cleanup()
+  File "C:\GitHub\dtk-tool\MG\dtk-tools\calibtool\CalibManager.py", line 102, in run_calibration
+    self.run_iterations()
+  File "C:\GitHub\dtk-tool\MG\dtk-tools\calibtool\CalibManager.py", line 113, in run_iterations
+    self.current_iteration.run()
+  File "C:\GitHub\dtk-tool\MG\dtk-tools\calibtool\IterationState.py", line 146, in run
+    self.analyze_step()
+  File "C:\GitHub\dtk-tool\MG\dtk-tools\calibtool\IterationState.py", line 185, in analyze_step
+    self.analyze_iteration()
+  File "C:\GitHub\dtk-tool\MG\dtk-tools\calibtool\IterationState.py", line 252, in analyze_iteration
+    verbose=True)
+  File "C:\GitHub\dtk-tool\MG\dtk-tools\simtools\Analysis\AnalyzeManager.py", line 61, in __init__
+    for a in analyzer_list: self.add_analyzer(a)
+  File "C:\GitHub\dtk-tool\MG\dtk-tools\simtools\Analysis\AnalyzeManager.py", line 111, in add_analyzer
+    analyzer.initialize()
+  File "C:\GitHub\dtk-tool\MG\dtk-tools\simtools\Analysis\BaseAnalyzers\BaseCacheAnalyzer.py", line 17, in initialize
+    self.cache = Cache(self.cache_location or self.uid + "_cache")
+  File "C:\Python36\Lib\site-packages\diskcache\core.py", line 388, in __init__
+    ' and could not be created' % self._directory
+OSError: [Errno 22] Cache directory "HIVCalibSite_OnART_Non-provincial_[0:15)[15:100)_GaussianDistribution_cache" does not exist and could not be created
+
+Process finished with exit code 1
